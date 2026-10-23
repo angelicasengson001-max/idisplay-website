@@ -1,0 +1,8 @@
+{
+  "name": "Remix iDisplay Inc. — Exhibits, Events \u0026 Displays",
+  "description": "iDisplay Inc. Philippines — Specialized, turnkey exhibits, promotional events, permanent shop-fittings, and large-format graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

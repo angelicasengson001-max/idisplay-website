@@ -1,0 +1,857 @@
+<!doctype html>
+<html lang="en"><head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20261020-05-fc6d5d4","C":{"Abril Fatface":"YACgEZbkUVE,0","Albert Sans":"YAHO2HRfeh4,0","Alfa Slab One":"YACgEYS9sJU,0","Anton":"YACgEcYqQ-A,0","Archivo Black":"YACgEZulLoA,0","Archivo":"YAHO2-t-jNE,0","Arial":"YAGyDvJ_4Ts,0","Baloo 2":"YAHO2IcQUcM,0","Barlow Condensed":"YAFdJljEuFc,0","Barlow":"YAFdJsyuOPM,1","Bebas Neue":"YACgESME5ew,0","Bricolage Grotesque":"YAFyMcdwzpc,0","Cairo":"YAFdtXpDzlQ,0","Canva Sans":"YAFdJjTk5UU,1","Caveat":"YALBs2ploWQ,0","Cinzel":"YACgEeV8bIQ,0","Cormorant Garamond":"YAFdJhX-538,0","Courier New":"YAGzXiGs0_8,0","Courier Prime":"YAD1aFjegN8,0","DM Sans":"YAD1aU3sLnI,0","DM Serif Display":"YAD1aYG82rc,0","Figtree":"YAHO2b-mV7A,0","Forum":"YACgEcnnqB4,0","Fraunces":"YAFdJpU7Kkk,0","Fredoka":"YACgEZml080,0","Georgia":"YAGzXkO0pEM,0","Hanken Grotesk":"YAHO2VB9G0I,0","Helvetica":"YAFcf7zkXN0,0","IBM Plex Mono":"YAFdJkmvhGI,0","IBM Plex Sans":"YAFdJgT0SHI,0","Impact":"YAFcfnjI7Vk,0","Instrument Sans":"YAHO2bKyaSQ,0","Instrument Serif":"YAHFeOnZNEk,0","Inter":"YAFdJvSyp_k,3","Italiana":"YAHO2Toik_w,0","Jacques Francois":"YAHO2a5g66Q,0","JetBrains Mono":"YAFdJksXcAk,0","Josefin Sans":"YAFdJjvw9Ps,0","Karla":"YAHO2V2NSXM,0","Lato":"YAFdJuFCnaw,0","Libre Baskerville":"YACgEUFdPdA,0","Libre Caslon Display":"YAHO2XhLmt0,0","Lobster":"YAD8SnSjSFI,0","Lora":"YACgEXvxf8Q,0","Manrope":"YAHO2b2feC4,0","Merriweather":"YACgEXvHxxs,0","Montserrat":"YAFdtQi73Xs,0","Noto Sans JP":"YAFdJiHXlcI,0","Noto Sans KR":"YAGsojZj-RQ,0","Nunito Sans":"YAFdtQJYB9w,1","Nunito":"YAFdJoNRMmU,1","Oleo Script":"YACgEQQ14jI,0","Open Sans":"YAFdJt8dAY0,1","Oswald":"YACgEQY10lw,0","Outfit":"YAHO2nVlg14,0","Pacifico":"YADLjORQ1u4,0","Playfair Display":"YAFdJhem5V8,1","Plus Jakarta Sans":"YAHO2gdhi18,0","Poppins":"YAFdJjbTu24,1","Press Start 2P":"YAFyGr-8pmQ,0","Public Sans":"YAFdJj8NdaU,1","Quicksand":"YAFdJpYtCxE,1","Raleway":"YAFdJhmxbVQ,1","Roboto Slab":"YAFdJswIKAg,0","Rockwell":"YAFcfyVZnN0,0","Rye":"YACgEdQP21k,0","STIX Two Text":"YAHO2joycuk,0","Sarabun":"YAFdJssSnME,0","Schibsted Grotesk":"YAHO2sWydRk,0","Segoe UI":"YAHNdRD1Klw,0","Source Sans 3":"YAG4lO1Mj10,0","Space Grotesk":"YAHO2sjPCSM,0","Space Mono":"YADW1-vpsoc,0","Spectral":"YAHO2rVUHIM,0","Times New Roman":"YAGzXW3gftg,0","Trebuchet MS":"YAFcfrglpVA,0","Ubuntu":"YACgERDU--Q,0","Verdana":"YAGzXTctYtQ,0","Work Sans":"YAGXhLOKv44,0","Yellowtail":"YACgEYG4kG4,0"}}');</script><script src="/_sdk/05db820ba1544614.telemetry_sdk.js" integrity="sha512-a7JzkQDDcioSXpM61nxTfeRW7PcxWQy5+BrhyeTFmQFsXJ+Gncm0y50u7fTA7qOPegFnRgqCfa0mGUOK1yjDWQ=="></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>iDisplay Inc. — Exhibits, Events &amp; Displays</title>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800&amp;family=DM+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+  <style>
+    :root{--navy:#101c34;--navy2:#192b49;--red:#d91e28;--paper:#f3f5f7;--ink:#172238;--muted:#536175}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;width:100%;font-family:"DM Sans",sans-serif;color:var(--ink);background:var(--paper)}
+    .app-shell{width:100%;overflow:visible}.site-inner{width:min(100% - 44px,1200px);margin-inline:auto}
+    #main-content{padding-top:78px}.view section{scroll-margin-top:94px}
+    h1,h2,h3,.eyebrow,.nav-link,.action{font-family:"Barlow Condensed",sans-serif}
+    h1{font-weight:800;font-size:clamp(54px,7vw,104px);line-height:.94;letter-spacing:-.025em;text-transform:uppercase}
+    h2{font-weight:800;font-size:clamp(38px,4.2vw,62px);line-height:1;letter-spacing:-.012em;text-transform:uppercase}
+    h3{font-weight:700;font-size:clamp(25px,2.2vw,32px);line-height:1.08}
+    .eyebrow{font-size:16px;font-weight:700;letter-spacing:.16em;text-transform:uppercase}
+    .nav-link{display:inline-block;font-size:18px;font-weight:600;text-transform:uppercase;letter-spacing:.045em;padding:10px 0;border-bottom:3px solid transparent;transform-origin:center;transition:transform .2s ease,filter .2s ease,color .2s ease,border-color .2s ease}
+    .nav-link:hover,.nav-link:focus-visible{color:#fff;border-color:var(--red);transform:scale(1.12);filter:brightness(1.12)}
+    .nav-link[aria-current="page"]{color:#fff;border-color:var(--red)}
+    .projects-nav-group{position:relative}.projects-dropdown{position:absolute;top:calc(100% + 12px);left:50%;z-index:1100;display:none;min-width:310px;transform:translateX(-50%);padding:8px;background:rgba(25,43,73,.98);border:1px solid rgba(255,255,255,.18);box-shadow:0 16px 34px rgba(5,13,28,.28);backdrop-filter:blur(14px)}.projects-nav-group:hover .projects-dropdown,.projects-nav-group:focus-within .projects-dropdown,.projects-nav-group.is-open .projects-dropdown{display:block}.dropdown-link{display:block;padding:11px 14px;color:#e9eef5;font-family:"Barlow Condensed",sans-serif;font-size:17px;font-weight:600;line-height:1.12;text-transform:uppercase;text-decoration:none}.dropdown-link:hover,.dropdown-link:focus-visible{color:#fff;background:var(--red);outline:none}.projects-dropdown:before{content:"";position:absolute;top:-13px;left:0;right:0;height:13px}.mobile-projects-group{width:100%}.mobile-projects-dropdown{display:none;padding:4px 0 8px 14px}.mobile-projects-group.is-open .mobile-projects-dropdown{display:block}.mobile-projects-dropdown .dropdown-link{color:#000}@media(max-width:820px){.projects-nav-group{display:none}}
+    .action{display:inline-flex;align-items:center;justify-content:center;min-height:49px;padding:11px 24px;font-size:19px;font-weight:700;text-transform:uppercase;letter-spacing:.025em;text-decoration:none;transition:transform .2s,filter .2s;cursor:pointer}
+    .action:hover{transform:translateY(-2px);filter:brightness(1.12)}
+    :is(a,button,input,select,textarea):focus-visible{outline:3px solid #ff9a9e;outline-offset:3px}
+    .view[hidden]{display:none!important}.view{animation:reveal .3s ease both}@keyframes reveal{from{opacity:.5;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    .hero{position:relative;min-height:620px;display:flex;align-items:center;isolation:isolate;animation:hero-soft-enter .8s cubic-bezier(.22,.8,.3,1) both}@keyframes hero-soft-enter{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    .hero-image{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+    .hero:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(11,22,43,.98) 0%,rgba(11,22,43,.91) 39%,rgba(11,22,43,.27) 100%);z-index:-1}
+    .hero:after{content:"";position:absolute;right:-4%;bottom:-2px;width:43%;height:65px;background:var(--red);clip-path:polygon(8% 100%,100% 0,100% 100%)}
+    .angled{position:relative}.angled:after{content:"";position:absolute;bottom:-1px;right:0;width:30%;height:42px;background:var(--paper);border-radius:100% 0 0 0 / 100% 0 0 0;clip-path:ellipse(78% 100% at 100% 100%);pointer-events:none}
+    .section-space{padding:85px 0}.lead{font-size:17px;line-height:1.75}
+    .red-rule{width:55px;height:5px;background:var(--red)}
+    .card{background:#fff;border:1px solid #dfe4e9;box-shadow:0 12px 32px rgba(16,28,52,.055)}
+    .card-image{width:100%;height:240px;object-fit:cover;transition:transform .4s}.image-window{overflow:hidden}.card:hover .card-image{transform:scale(1.045)}
+    .carousel-slide{transition:opacity .2s ease}.carousel-arrow{position:absolute;top:50%;z-index:2;width:36px;height:36px;border:1px solid rgba(255,255,255,.7);border-radius:999px;background:rgba(16,28,52,.78);color:#fff;font-size:30px;line-height:26px;transform:translateY(-50%);cursor:pointer}.carousel-arrow:hover,.carousel-arrow:focus-visible{background:var(--red)}.carousel-prev{left:12px}.carousel-next{right:12px}.carousel-indicator{position:absolute;right:12px;bottom:12px;z-index:2;padding:4px 9px;border-radius:999px;background:rgba(16,28,52,.82);color:#fff;font:600 13px "DM Sans",sans-serif}
+    .service-card{background:#fff;border:1px solid #e1e6ec;padding:29px;min-height:216px;transition:border-color .2s,transform .2s}.service-card:hover{border-color:var(--red);transform:translateY(-3px)}
+    .marker{width:32px;height:32px;display:block;background:var(--red);clip-path:polygon(0 0,100% 0,100% 65%,65% 100%,0 100%)}
+    .wave-accent{position:relative}.wave-accent:before{content:"";position:absolute;left:-3%;top:-18px;width:106%;height:30px;border-radius:50%;background:var(--paper);pointer-events:none}.wave-accent:after{content:"";position:absolute;left:-3%;bottom:-15px;width:106%;height:28px;border-radius:50%;background:var(--red);opacity:.12;pointer-events:none}.why-section-wave{position:relative;overflow:hidden}.why-section-wave:before{content:"";position:absolute;left:-8%;right:-8%;bottom:-30px;height:72px;background:var(--red);opacity:.18;border-radius:50% 50% 0 0 / 100% 100% 0 0;pointer-events:none;z-index:0}.why-section-wave>*{position:relative;z-index:1}
+    .clients-section{overflow:hidden;background:#fff}.clients-marquee{width:100%;overflow-x:auto;overflow-y:hidden;border-block:1px solid #dfe4e9;padding:22px 0;outline:none;cursor:grab;scrollbar-color:#bd1721 #e9eef5;scrollbar-width:thin;touch-action:pan-x}.clients-marquee:active{cursor:grabbing}.clients-marquee:focus-visible{outline:3px solid #ff9a9e;outline-offset:4px}.clients-track{display:flex;width:max-content}.clients-logo-set{display:flex;align-items:stretch;gap:18px;padding:0 18px;flex:none}.client-logo-card{position:relative;width:132px;height:82px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:7px;flex:none;background:#fff;border:1px solid #dfe4e9;box-shadow:0 5px 14px rgba(16,28,52,.06);user-select:none}.client-logo-mark{width:27px;height:27px;background:#d91e28;clip-path:polygon(50% 0,100% 28%,82% 100%,18% 100%,0 28%)}.client-logo-name{font:600 14px/1 "Barlow Condensed",sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#536175}.client-logo-card:nth-child(3n) .client-logo-mark{border-radius:50%;background:#224aa8}.client-logo-card:nth-child(3n+1) .client-logo-mark{transform:rotate(45deg);background:#b56fdc}.client-logo-card img{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}@media(max-width:560px){.clients-logo-set{gap:12px;padding:0 12px}.client-logo-card{width:108px;height:72px}.client-logo-name{font-size:13px}}
+    @media(prefers-reduced-motion:reduce){.clients-track{animation-play-state:paused}}
+    .field{width:100%;border:1px solid #bfc8d4;background:white;color:var(--ink);padding:13px 15px;border-radius:2px;font-family:"DM Sans",sans-serif}
+    .field:focus{border-color:var(--red);outline:2px solid #d91e2850}
+    .mobile-menu{display:none}.mobile-menu.open{display:flex}
+    .brand-logo{display:block;max-width:170px;max-height:49px;object-fit:contain;animation:logo-intro .65s cubic-bezier(.22,.8,.3,1) both;transition:transform .18s ease-out,filter .18s ease-out}.site-header .brand-logo{max-width:192px;max-height:55px}.header-brand-logo{filter:drop-shadow(0 5px 9px rgba(5,13,28,.58))}.brand-logo:hover{transform:scale(1.03);filter:brightness(1.08)}.site-header .header-brand-logo:hover{filter:drop-shadow(0 5px 9px rgba(5,13,28,.58)) brightness(1.08)}@keyframes logo-intro{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
+    @media(max-width:820px){.desktop-nav{display:none!important}.hero{min-height:570px}.hero:before{background:linear-gradient(90deg,#0b162bf5,#0b162bb5)}}
+    @media(min-width:821px){#menu-toggle{display:none}}
+    @media(max-width:560px){.site-inner{width:min(100% - 34px,1200px)}.section-space{padding:65px 0}.hero{min-height:550px}.card-image{height:210px}}
+    .image-lightbox{position:fixed;inset:0;z-index:2000;display:flex;align-items:center;justify-content:center;padding:28px;background:rgba(5,13,28,.88)}.image-lightbox[hidden]{display:none}.image-lightbox-content{position:relative;display:flex;align-items:center;justify-content:center;width:min(92vw,calc(88 * min(var(--vh, 1vh), 1vh) * 1.7778));height:min(calc(88 * min(var(--vh, 1vh), 1vh)),calc(92vw * .5625));aspect-ratio:16 / 9}.image-lightbox-preview{width:100%;height:100%;object-fit:contain;box-shadow:0 20px 60px rgba(0,0,0,.45);background:#101c34}.image-lightbox-close{position:absolute;top:-18px;right:-18px;width:42px;height:42px;border:2px solid #fff;border-radius:999px;background:var(--red);color:#fff;font:700 28px/34px "DM Sans",sans-serif;cursor:pointer}.image-lightbox-close:hover,.image-lightbox-close:focus-visible{filter:brightness(1.15);transform:scale(1.05)}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.01ms!important;transition-duration:.01ms!important}.brand-logo{animation:none;transform:none!important;filter:none!important}.hero{animation:none}}
+  </style>
+  <script src="https://cdn.tailwindcss.com/3.4.17" type="text/javascript"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.577.0/dist/umd/lucide.min.js" type="text/javascript"></script>
+  <script src="/_sdk/570d53629f0b998d.data_sdk.js" type="text/javascript" integrity="sha512-JEN39+V+Nvv9ZZOVS8vNk1iA9ErZJHTdgOw9KzPuMiK7m0I+KPEr/wmTnCFIQVsDjCZgJWfGnFi1IQh2Io2qyA=="></script>
+  <script src="/_sdk/75a438893c392e87.editing_sdk.js" type="text/javascript" integrity="sha512-dwMdGze34YfKClyWoJqg8G7aysCRZPl5LIEwZdxKrODxjmtlJ5cUCCJ33fBfYJz411RAPBHv1mvaPtclrV0sYw=="></script>
+  <script src="/_sdk/03eb2403dcb2c820.resizing_sdk.js" type="text/javascript" integrity="sha512-3rStQpeHJ9SpUz/tPWj3qoOTc5Wdb4M77IFGFVtMTQ/GLbCg6/OVP+yWZaTo/YDzpJdLk+FvEXzvR4ZNQQ4/HQ=="></script>
+ </head>
+ <body data-template-id="__page-root" style="background: rgb(88, 132, 191);">
+  <div class="app-shell">
+   <header data-template-id="site-header" class="canva-header site-header fixed !top-0 !left-0 !right-0 !z-[1000] !w-full shadow-[0_8px_22px_rgba(16,28,52,0.16)] backdrop-blur-md" style="background: rgb(255, 255, 255);">
+    <div class="site-inner flex min-h-[78px] items-center justify-between gap-5">
+     <a href="#home" aria-label="iDisplay Inc. home"><img data-template-id="header-logo" class="canva-image brand-logo header-brand-logo" loading="lazy" src="canva://MAHYeXVCoMc/1" alt="iDisplay Inc. logo"></a>
+     <nav class="desktop-nav flex items-center gap-7" aria-label="Main navigation">
+      <a data-template-id="nav-home" class="canva-link nav-link" href="#home" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 16px;">Home</a>
+      <div class="projects-nav-group"><a id="nav-projects" data-template-id="nav-projects" class="canva-link nav-link" href="#projects" aria-haspopup="true" aria-expanded="false" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 16px;">Projects</a>
+       <div id="projects-dropdown" class="projects-dropdown" role="menu" aria-label="Project categories"><a data-template-id="project-menu-custom" class="canva-link dropdown-link" role="menuitem" href="#custom-exhibits" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Custom Exhibits</a><a data-template-id="project-menu-events" class="canva-link dropdown-link" role="menuitem" href="#promotional-events" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Promotional Events and Roadshows</a><a data-template-id="project-menu-displays" class="canva-link dropdown-link" role="menuitem" href="#permanent-displays" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Permanent Displays and Shop-fittings</a><a data-template-id="project-menu-interiors" class="canva-link dropdown-link" role="menuitem" href="#commercial-interiors" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Commercial Interior Design and Architecture</a><a data-template-id="project-menu-pos" class="canva-link dropdown-link" role="menuitem" href="#point-of-sales" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Point of Sales Setups</a><a data-template-id="project-menu-graphics" class="canva-link dropdown-link" role="menuitem" href="#larger-than-life-graphics" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Larger Than Life Graphics Displays</a>
+       </div>
+      </div><a data-template-id="nav-about" class="canva-link nav-link" href="#about" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 16px;">About</a> <a data-template-id="nav-services" class="canva-link nav-link" href="#services" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 16px;">Services</a> <a data-template-id="nav-contact" class="canva-link nav-link" href="#contact" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 16px;">Contact</a>
+     </nav><a data-template-id="header-cta" class="canva-button action desktop-nav" href="#contact" style="background: rgb(217, 30, 40); color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Request a Quote</a> <button id="menu-toggle" type="button" class="p-3 text-black" aria-label="Open navigation menu" aria-expanded="false" aria-controls="mobile-menu"><span aria-hidden="true">☰</span></button>
+    </div>
+    <nav id="mobile-menu" class="mobile-menu site-inner flex-col gap-1 border-t border-white/20 pb-5" aria-label="Mobile navigation" inert="">
+     <a data-template-id="mobile-home" class="canva-link nav-link w-fit" href="#home" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Home</a>
+     <div class="mobile-projects-group"><a id="mobile-projects-link" data-template-id="mobile-projects" class="canva-link nav-link w-fit" href="#projects" aria-haspopup="true" aria-expanded="false" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Projects</a>
+      <div id="mobile-projects-dropdown" class="mobile-projects-dropdown" role="menu"><a data-template-id="mobile-project-menu-custom" class="canva-link dropdown-link" role="menuitem" href="#custom-exhibits" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Custom Exhibits</a><a data-template-id="mobile-project-menu-events" class="canva-link dropdown-link" role="menuitem" href="#promotional-events" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Promotional Events and Roadshows</a><a data-template-id="mobile-project-menu-displays" class="canva-link dropdown-link" role="menuitem" href="#permanent-displays" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Permanent Displays and Shop-fittings</a><a data-template-id="mobile-project-menu-interiors" class="canva-link dropdown-link" role="menuitem" href="#commercial-interiors" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Commercial Interior Design and Architecture</a><a data-template-id="mobile-project-menu-pos" class="canva-link dropdown-link" role="menuitem" href="#point-of-sales" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Point of Sales Setups</a><a data-template-id="mobile-project-menu-graphics" class="canva-link dropdown-link" role="menuitem" href="#larger-than-life-graphics" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Larger Than Life Graphics Displays</a>
+      </div>
+     </div><a data-template-id="mobile-about" class="canva-link nav-link w-fit" href="#about" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">About</a> <a data-template-id="mobile-services" class="canva-link nav-link w-fit" href="#services" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Services</a> <a data-template-id="mobile-contact" class="canva-link nav-link w-fit" href="#contact" style="color: rgb(0, 0, 0); font-weight: 400; font-style: normal; font-size: 16px;">Contact</a>
+    </nav>
+   </header>
+   <main id="main-content">
+    <div id="view-home" class="view">
+     <section data-template-id="hero-section" class="canva-section hero" style="background: rgb(16, 28, 52);">
+      <img data-template-id="hero-image" class="canva-image hero-image" loading="lazy" src="https://images.pexels.com/photos/31311141/pexels-photo-31311141.jpeg" alt="A bustling trade show exhibition inside a modern hall with people networking and exploring booths.">
+      <div class="site-inner relative py-20">
+       <p data-template-id="hero-eyebrow" class="canva-text eyebrow mb-6" style="color: rgb(250, 199, 201); font-weight: 400; font-style: normal; font-size: 16px;">EXHIBITS | EVENTS | DISPLAYS | BEYOND EXPECTATION</p>
+       <h1 id="home-heading" tabindex="-1" data-template-id="hero-title" class="canva-text max-w-[780px]" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Unleash the Power of Imagination</h1>
+       <div class="red-rule my-7"></div>
+       <p data-template-id="hero-copy" class="canva-text lead max-w-xl" style="color: rgb(241, 244, 248); font-weight: 400; font-style: normal; font-size: 16px;">From exhibits and events to displays, commercial interiors, and large-format graphics, we bring your vision to life.</p>
+       <div class="mt-9 flex flex-wrap gap-3">
+        <a data-template-id="hero-cta" class="canva-button action" href="#services" style="background: rgb(217, 30, 40); color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Explore Our Services</a> <a data-template-id="hero-secondary" class="canva-button action border-2 border-white" href="#contact" style="background: none; color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Start a Project</a>
+       </div>
+      </div>
+     </section>
+     <section data-template-id="stats-band" class="canva-section wave-accent py-10" style="background: rgb(189, 23, 33);">
+      <div class="site-inner flex flex-wrap items-center gap-4 md:gap-9">
+       <p data-template-id="stats-number" class="canva-text font-extrabold leading-none" style="font-family: &quot;Barlow Condensed&quot;, sans-serif; font-size: 16px; color: rgb(255, 255, 255); font-weight: 800; font-style: normal;">15+</p>
+       <p data-template-id="stats-label" class="canva-text max-w-xs font-bold uppercase leading-tight" style="font-family: &quot;Barlow Condensed&quot;, sans-serif; font-size: 16px; color: rgb(255, 255, 255); font-weight: 700; font-style: normal;">Years of Experience</p>
+       <p data-template-id="stats-copy" class="canva-text lead md:ml-auto md:max-w-md" style="color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Design, planning, management, fabrication, and construction for projects of many scales.</p>
+      </div>
+     </section>
+     <section class="section-space" aria-labelledby="featured-heading">
+      <div class="site-inner">
+       <p data-template-id="featured-eyebrow" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">WHAT WE CREATE</p>
+       <div class="mb-9 flex flex-wrap items-end justify-between gap-5">
+        <h2 id="featured-heading" data-template-id="featured-title" class="canva-text" style="color: rgb(16, 28, 52); font-weight: 800; font-style: normal; font-size: 24px;">Ideas Made Visible</h2><a data-template-id="featured-link" class="canva-link font-bold underline underline-offset-4" href="#projects" style="color: rgb(16, 28, 52); font-weight: 400; font-style: normal; font-size: 16px;">Explore all project categories ↗</a>
+       </div>
+       <div class="grid gap-5 md:grid-cols-3">
+        <article class="card">
+         <div class="image-window"><img data-template-id="featured-1-image" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/36522033/pexels-photo-36522033.jpeg" alt="Advanced industrial machinery displayed at a trade fair exhibit.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="featured-1-label" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">EXHIBITS</p>
+          <h3 data-template-id="featured-1-title" class="canva-text" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Custom Exhibits</h3>
+         </div>
+        </article>
+        <article class="card">
+         <div class="image-window"><img data-template-id="featured-2-image" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/28936752/pexels-photo-28936752.jpeg" alt="Vibrant indoor promotional event setup with neon lights and digital branding.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="featured-2-label" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">EVENTS</p>
+          <h3 data-template-id="featured-2-title" class="canva-text" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Promotional Events and Roadshows</h3>
+         </div>
+        </article>
+        <article class="card">
+         <div class="image-window"><img data-template-id="featured-3-image" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/8386654/pexels-photo-8386654.jpeg" alt="Clothing arranged in a modern boutique display.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="featured-3-label" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">DISPLAYS</p>
+          <h3 data-template-id="featured-3-title" class="canva-text" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Permanent Displays and Shop-fittings</h3>
+         </div>
+        </article>
+       </div>
+      </div>
+     </section>
+     <section data-template-id="why-section" class="canva-section section-space angled why-section-wave" aria-labelledby="why-heading" style="background: rgb(232, 237, 242);">
+      <div class="site-inner">
+       <p data-template-id="why-eyebrow" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">THE IDISPLAY APPROACH</p>
+       <h2 id="why-heading" data-template-id="why-title" class="canva-text mb-9" style="color: rgb(16, 28, 52); font-weight: 800; font-style: normal; font-size: 24px;">Why Choose iDisplay?</h2>
+       <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        <article class="service-card"><span class="marker mb-7" aria-hidden="true"></span>
+         <h3 data-template-id="why-1-title" class="canva-text mb-3" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Innovative Concepts</h3>
+         <p data-template-id="why-1-copy" class="canva-text leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Marketing ideas and concepts that aim to redefine industry standards.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-7" aria-hidden="true"></span>
+         <h3 data-template-id="why-2-title" class="canva-text mb-3" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Continuous Excellence</h3>
+         <p data-template-id="why-2-copy" class="canva-text leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">A commitment to upgrading, developing, and enhancing our products and services.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-7" aria-hidden="true"></span>
+         <h3 data-template-id="why-3-title" class="canva-text mb-3" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Tailor-Fit Solutions</h3>
+         <p data-template-id="why-3-copy" class="canva-text leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Specialized services aligned with each customer's requirements.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-7" aria-hidden="true"></span>
+         <h3 data-template-id="why-4-title" class="canva-text mb-3" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Client Satisfaction</h3>
+         <p data-template-id="why-4-copy" class="canva-text leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Quality services and responsive collaboration focused on customer needs.</p>
+        </article>
+       </div>
+      </div>
+     </section>
+     <section data-template-id="clients-section" class="canva-section clients-section section-space" aria-labelledby="clients-heading" style="background: rgb(255, 255, 255);">
+      <div class="site-inner">
+       <p data-template-id="clients-eyebrow" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">TRUSTED PARTNERS</p>
+       <h2 id="clients-heading" data-template-id="clients-title" class="canva-text mb-9" style="color: rgb(16, 28, 52); font-weight: 800; font-style: normal; font-size: 24px;">Our Valuable Clients</h2>
+       <div class="clients-marquee" tabindex="0" aria-label="Client logo placeholders">
+        <div class="clients-track">
+         <div class="clients-logo-set">
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 01</span><img data-template-id="client-logo-01" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 02</span><img data-template-id="client-logo-02" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 03</span><img data-template-id="client-logo-03" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 04</span><img data-template-id="client-logo-04" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 05</span><img data-template-id="client-logo-05" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 06</span><img data-template-id="client-logo-06" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 07</span><img data-template-id="client-logo-07" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 08</span><img data-template-id="client-logo-08" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 09</span><img data-template-id="client-logo-09" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 10</span><img data-template-id="client-logo-10" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 11</span><img data-template-id="client-logo-11" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 12</span><img data-template-id="client-logo-12" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 13</span><img data-template-id="client-logo-13" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 14</span><img data-template-id="client-logo-14" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 15</span><img data-template-id="client-logo-15" loading="lazy">
+          </div>
+          <div class="client-logo-card"><span class="client-logo-mark"></span><span class="client-logo-name">Client 16</span><img data-template-id="client-logo-16" loading="lazy">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+    </div>
+    <div id="view-projects" class="view" hidden="">
+     <section data-template-id="projects-banner" class="canva-section angled py-20 md:py-28" style="background: rgb(16, 28, 52);">
+      <div class="site-inner">
+       <p data-template-id="projects-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">PROJECT CATEGORIES</p>
+       <h1 id="projects-heading" tabindex="-1" data-template-id="projects-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Experiences in Every Format</h1>
+       <p data-template-id="projects-intro" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Explore the kinds of exhibits, events, displays, and branded spaces iDisplay Inc. can create.</p>
+      </div>
+     </section>
+     <section class="section-space">
+      <div class="site-inner">
+       <p data-template-id="projects-note" class="canva-text mb-9 border-l-4 border-[#d91e28] pl-4 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Images illustrate service categories and are not documented iDisplay Inc. projects.</p>
+       <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        <article class="card">
+         <div class="image-window"><img data-template-id="project-1-image" class="canva-image card-image" loading="lazy" role="link" tabindex="0" aria-label="Open Custom Exhibits" src="https://images.pexels.com/photos/35138560/pexels-photo-35138560.jpeg" alt="A bustling trade show exhibition inside a modern hall with people exploring booths.">
+         </div>
+         <div class="p-6"><a data-template-id="project-1-label" class="canva-link eyebrow mb-2 inline-block" href="#custom-exhibits" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">EXHIBITS</a> <a href="#custom-exhibits" class="block no-underline"><h2 data-template-id="project-1-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Custom Exhibits</h2></a>
+          <p data-template-id="project-1-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Purpose-built exhibition environments shaped around display requirements.</p>
+         </div>
+        </article>
+        <article class="card">
+         <div class="image-window"><img data-template-id="project-2-image" class="canva-image card-image" loading="lazy" role="link" tabindex="0" aria-label="Open Promotional Events and Roadshows" src="https://images.pexels.com/photos/12693942/pexels-photo-12693942.jpeg" alt="A decorated van with colorful graphics parked outside a modern building.">
+         </div>
+         <div class="p-6"><a data-template-id="project-2-label" class="canva-link canva-text eyebrow mb-2 inline-block" href="#promotional-events" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">EVENTS &amp; ROADSHOWS</a><a href="#promotional-events" class="block no-underline" aria-label="Open Promotional Events and Roadshows"><h2 data-template-id="project-2-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Promotional Events and Roadshows</h2></a>
+          <p data-template-id="project-2-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Adaptable promotional formats for events and roadshow settings.</p>
+         </div>
+        </article>
+        <article class="card">
+         <div class="image-window"><img data-template-id="project-3-image" class="canva-image card-image" loading="lazy" src="canva://MAFPTeCqfuA/1" alt="Modern clothing boutique with fitting room mirror and hanging garments.">
+         </div>
+         <div class="p-6"><a data-template-id="project-3-label" class="canva-link canva-text eyebrow mb-2 inline-block underline-offset-4 hover:underline focus-visible:underline" href="#permanent-displays" aria-label="Open Retail Displays" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">RETAIL DISPLAYS</a><a href="#permanent-displays" class="block no-underline" aria-label="Open Permanent Displays and Shop-fittings"></a><a href="#permanent-displays" class="block no-underline"><h2 data-template-id="project-3-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Permanent Displays and Shop-fittings</h2></a>
+          <p data-template-id="project-3-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Display and shop-fitting concepts for lasting retail presence.</p>
+         </div>
+        </article>
+        <article class="card">
+         <div class="image-window"><img data-template-id="project-4-image" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/13865606/pexels-photo-13865606.jpeg" alt="Modern interior with minimalist white shelves and contemporary design elements.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="project-4-label" class="canva-text eyebrow mb-2" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">COMMERCIAL INTERIORS</p>
+          <h2 data-template-id="project-4-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Commercial Interior Design and Architecture</h2>
+          <p data-template-id="project-4-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Interior and architectural concepts shaped around commercial requirements.</p>
+         </div>
+        </article>
+        <article class="card">
+         <div class="image-window"><img data-template-id="project-5-image" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/18356313/pexels-photo-18356313.jpeg" alt="Coffee merchandise and apparel arranged on bright shelving in a retail interior.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="project-5-label" class="canva-text eyebrow mb-2" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">POINT OF SALE</p>
+          <h2 data-template-id="project-5-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Point-of-Sale Setups</h2>
+          <p data-template-id="project-5-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Branded setups for customer-facing retail touchpoints.</p>
+         </div>
+        </article>
+        <article class="card">
+         <div class="image-window"><img data-template-id="project-6-image" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/20042067/pexels-photo-20042067.jpeg" alt="Close-up of a modern printing machine in a professional studio.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="project-6-label" class="canva-text eyebrow mb-2" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">LARGE-FORMAT GRAPHICS</p>
+          <h2 data-template-id="project-6-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Larger-than-Life Graphic Displays</h2>
+          <p data-template-id="project-6-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Large-scale graphics developed for high-impact visual presentation.</p>
+         </div>
+        </article>
+       </div>
+      </div>
+     </section>
+    </div>
+    <div id="view-custom-exhibits" class="view" hidden="">
+     <section data-template-id="custom-exhibits-banner" class="canva-section angled py-20 md:py-28" style="background: rgb(16, 28, 52);">
+      <div class="site-inner">
+       <p data-template-id="custom-exhibits-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">CUSTOM EXHIBITS</p>
+       <h1 id="custom-exhibits-heading" tabindex="-1" data-template-id="custom-exhibits-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Custom Exhibits</h1>
+       <p data-template-id="custom-exhibits-intro" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">A dedicated space for custom exhibit projects. Add project imagery and information here as your gallery grows.</p>
+      </div>
+     </section>
+     <section class="section-space">
+      <div class="site-inner">
+       <p data-template-id="custom-exhibits-note" class="canva-text mb-9 border-l-4 border-[#d91e28] pl-4 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Gallery content area — replace or add images and project information as details become available.</p>
+       <div class="grid gap-6">
+        <article data-template-id="custom-client-card-1" class="canva-card card flex h-full flex-col overflow-hidden transition-transform duration-200 hover:-translate-y-1 md:flex-row" style="background: rgb(255, 255, 255);">
+         <div class="image-window relative aspect-[16/9] md:aspect-auto md:w-2/5 md:h-[442px] md:shrink-0" aria-label="Custom exhibit image carousel">
+          <img data-template-id="custom-exhibit-client-01-image" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover" loading="lazy" src="https://images.pexels.com/photos/31311141/pexels-photo-31311141.jpeg" alt="Exhibition booth placeholder image"> <img data-template-id="custom-exhibit-client-01-carousel-2" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/35138560/pexels-photo-35138560.jpeg" alt="Trade show exhibition placeholder image"> <img data-template-id="custom-exhibit-client-01-carousel-3" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/31311125/pexels-photo-31311125.jpeg" alt="Contemporary exhibition booth placeholder image"> <img data-template-id="custom-exhibit-client-01-carousel-4" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/7911758/pexels-photo-7911758.jpeg" alt="Minimal exhibit space placeholder image"> <img data-template-id="custom-exhibit-client-01-carousel-5" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/36522033/pexels-photo-36522033.jpeg" alt="Trade fair display placeholder image"> <button type="button" class="carousel-arrow carousel-prev" aria-label="Previous image">‹</button> <button type="button" class="carousel-arrow carousel-next" aria-label="Next image">›</button> <span class="carousel-indicator" aria-live="polite">1/5</span>
+         </div>
+         <div class="flex flex-1 flex-col p-3">
+          <p data-template-id="custom-exhibit-client-01-label" class="canva-text eyebrow mb-2" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT 01</p>
+          <h2 data-template-id="custom-exhibit-client-01-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Project title placeholder</h2>
+          <p data-template-id="custom-exhibit-client-01-description" class="canva-text mt-3 flex-1 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Project information placeholder.</p>
+          <dl class="mt-2 grid gap-1 border-t border-[#dfe4e9] pt-2 sm:grid-cols-2">
+           <div>
+            <dt data-template-id="custom-exhibit-client-01-client-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT</dt>
+            <dd data-template-id="custom-exhibit-client-01-client" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-01-location-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">LOCATION</dt>
+            <dd data-template-id="custom-exhibit-client-01-location" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-01-date-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">DATE</dt>
+            <dd data-template-id="custom-exhibit-client-01-date" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-01-services-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">SERVICES</dt>
+            <dd data-template-id="custom-exhibit-client-01-services" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+          </dl>
+         </div>
+        </article>
+        <article data-template-id="custom-client-card-2" class="canva-card card custom-client-card-2 flex h-full flex-col overflow-hidden transition-transform duration-200 hover:-translate-y-1 md:flex-row" style="background: rgb(255, 255, 255);">
+         <div class="image-window relative aspect-[5/3] md:aspect-auto md:w-2/5 md:h-[442px] md:shrink-0" aria-label="Custom exhibit image carousel">
+          <img data-template-id="custom-exhibit-client-02-image" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover" loading="lazy" src="https://images.pexels.com/photos/31311141/pexels-photo-31311141.jpeg" alt="Exhibition booth placeholder image"> <img data-template-id="custom-exhibit-client-02-carousel-2" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/28936752/pexels-photo-28936752.jpeg" alt="Vibrant indoor promotional event setup with neon lights and digital branding."> <img data-template-id="custom-exhibit-client-02-carousel-3" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/28936752/pexels-photo-28936752.jpeg" alt="Vibrant indoor promotional event setup with neon lights and digital branding."> <img data-template-id="custom-exhibit-client-02-carousel-4" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="canva://MAHXAwQdsn4/1" alt="Minimalist interior with white ceramics on shelves"> <img data-template-id="custom-exhibit-client-02-carousel-5" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/28886962/pexels-photo-28886962.jpeg" alt="Serene minimalist interior with soft lighting"> <button type="button" class="carousel-arrow carousel-prev" aria-label="Previous image">‹</button> <button type="button" class="carousel-arrow carousel-next" aria-label="Next image">›</button> <span class="carousel-indicator" aria-live="polite">1/5</span>
+         </div>
+         <div class="flex flex-1 flex-col p-3">
+          <p data-template-id="custom-exhibit-client-02-label" class="canva-text eyebrow mb-2" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT 02</p>
+          <h2 data-template-id="custom-exhibit-client-02-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Project title placeholder</h2>
+          <p data-template-id="custom-exhibit-client-02-description" class="canva-text mt-3 flex-1 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Project information placeholder.</p>
+          <dl class="mt-2 grid gap-1 border-t border-[#dfe4e9] pt-2 sm:grid-cols-2">
+           <div>
+            <dt data-template-id="custom-exhibit-client-02-client-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT</dt>
+            <dd data-template-id="custom-exhibit-client-02-client" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-02-location-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">LOCATION</dt>
+            <dd data-template-id="custom-exhibit-client-02-location" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-02-date-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">DATE</dt>
+            <dd data-template-id="custom-exhibit-client-02-date" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-02-services-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">SERVICES</dt>
+            <dd data-template-id="custom-exhibit-client-02-services" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+          </dl>
+         </div>
+        </article>
+        <article data-template-id="custom-client-card-3" class="canva-card card flex h-full flex-col overflow-hidden transition-transform duration-200 hover:-translate-y-1 md:flex-row" style="background: rgb(255, 255, 255);">
+         <div class="image-window relative aspect-[16/9] md:aspect-auto md:w-2/5 md:h-[442px] md:shrink-0" aria-label="Custom exhibit image carousel">
+          <img data-template-id="custom-exhibit-client-03-image" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover" loading="lazy" src="https://images.pexels.com/photos/31311141/pexels-photo-31311141.jpeg" alt="Exhibition booth placeholder image"> <img data-template-id="custom-exhibit-client-03-carousel-2" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/28936752/pexels-photo-28936752.jpeg" alt="Vibrant indoor promotional event setup with neon lights and digital branding."> <img data-template-id="custom-exhibit-client-03-carousel-3" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/36297487/pexels-photo-36297487.jpeg" alt="Busy conference hall with directional signs"> <img data-template-id="custom-exhibit-client-03-carousel-4" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/1666667/pexels-photo-1666667.jpeg" alt="Spacious modern art gallery lobby"> <img data-template-id="custom-exhibit-client-03-carousel-5" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/37389531/pexels-photo-37389531.jpeg" alt="Modern convention center interior"> <button type="button" class="carousel-arrow carousel-prev" aria-label="Previous image">‹</button> <button type="button" class="carousel-arrow carousel-next" aria-label="Next image">›</button> <span class="carousel-indicator" aria-live="polite">1/5</span>
+         </div>
+         <div class="flex flex-1 flex-col p-3">
+          <p data-template-id="custom-exhibit-client-03-label" class="canva-text eyebrow mb-2" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT 03</p>
+          <h2 data-template-id="custom-exhibit-client-03-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Project title placeholder</h2>
+          <p data-template-id="custom-exhibit-client-03-description" class="canva-text mt-3 flex-1 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Project information placeholder.</p>
+          <dl class="mt-2 grid gap-1 border-t border-[#dfe4e9] pt-2 sm:grid-cols-2">
+           <div>
+            <dt data-template-id="custom-exhibit-client-03-client-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT</dt>
+            <dd data-template-id="custom-exhibit-client-03-client" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-03-location-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">LOCATION</dt>
+            <dd data-template-id="custom-exhibit-client-03-location" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-03-date-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">DATE</dt>
+            <dd data-template-id="custom-exhibit-client-03-date" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-03-services-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">SERVICES</dt>
+            <dd data-template-id="custom-exhibit-client-03-services" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+          </dl>
+         </div>
+        </article>
+        <article data-template-id="custom-client-card-4" class="canva-card card flex h-full flex-col overflow-hidden transition-transform duration-200 hover:-translate-y-1 md:flex-row" style="background: rgb(255, 255, 255);">
+         <div class="image-window relative aspect-[16/9] md:aspect-auto md:w-2/5 md:h-[442px] md:shrink-0" aria-label="Custom exhibit image carousel">
+          <img data-template-id="custom-exhibit-client-04-image" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover" loading="lazy" src="canva://MAE2cV8t-s0/2" alt="Event exhibit placeholder image"> <img data-template-id="custom-exhibit-client-04-carousel-2" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/31311125/pexels-photo-31311125.jpeg" alt="Contemporary exhibition booth with branded decor and product display."> <img data-template-id="custom-exhibit-client-04-carousel-3" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="canva://MAG_wPVc4Vo/1" alt="Bustling indoor exhibition space"> <img data-template-id="custom-exhibit-client-04-carousel-4" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/35378715/pexels-photo-35378715.jpeg" alt="Modern art gallery with wooden exhibition stands"> <img data-template-id="custom-exhibit-client-04-carousel-5" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/35630641/pexels-photo-35630641.jpeg" alt="Futuristic architectural model with green landscape"> <button type="button" class="carousel-arrow carousel-prev" aria-label="Previous image">‹</button> <button type="button" class="carousel-arrow carousel-next" aria-label="Next image">›</button> <span class="carousel-indicator" aria-live="polite">1/5</span>
+         </div>
+         <div class="flex flex-1 flex-col p-3">
+          <p data-template-id="custom-exhibit-client-04-label" class="canva-text eyebrow mb-2" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT 04</p>
+          <h2 data-template-id="custom-exhibit-client-04-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Project title placeholder</h2>
+          <p data-template-id="custom-exhibit-client-04-description" class="canva-text mt-3 flex-1 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Project information placeholder.</p>
+          <dl class="mt-2 grid gap-1 border-t border-[#dfe4e9] pt-2 sm:grid-cols-2">
+           <div>
+            <dt data-template-id="custom-exhibit-client-04-client-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT</dt>
+            <dd data-template-id="custom-exhibit-client-04-client" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-04-location-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">LOCATION</dt>
+            <dd data-template-id="custom-exhibit-client-04-location" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-04-date-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">DATE</dt>
+            <dd data-template-id="custom-exhibit-client-04-date" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-04-services-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">SERVICES</dt>
+            <dd data-template-id="custom-exhibit-client-04-services" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+          </dl>
+         </div>
+        </article>
+        <article data-template-id="custom-client-card-5" class="canva-card card flex h-full flex-col overflow-hidden transition-transform duration-200 hover:-translate-y-1 md:flex-row" style="background: rgb(255, 255, 255);">
+         <div class="image-window relative aspect-[16/9] md:aspect-auto md:w-2/5 md:h-[442px] md:shrink-0" aria-label="Custom exhibit image carousel">
+          <img data-template-id="custom-exhibit-client-05-image" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover" loading="lazy" src="https://images.pexels.com/photos/31311141/pexels-photo-31311141.jpeg" alt="Trade show booth placeholder image"> <img data-template-id="custom-exhibit-client-05-carousel-2" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/35138560/pexels-photo-35138560.jpeg" alt="Trade show exhibition inside a modern hall."> <img data-template-id="custom-exhibit-client-05-carousel-3" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/36297487/pexels-photo-36297487.jpeg" alt="Busy conference hall with directional signs"> <img data-template-id="custom-exhibit-client-05-carousel-4" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/7513474/pexels-photo-7513474.jpeg" alt="Art exhibition in a spacious gallery"> <img data-template-id="custom-exhibit-client-05-carousel-5" class="canva-image carousel-slide absolute inset-0 h-full w-full object-cover hidden" loading="lazy" src="https://images.pexels.com/photos/12712474/pexels-photo-12712474.jpeg" alt="Modern vehicle exhibition at a stylish venue"> <button type="button" class="carousel-arrow carousel-prev" aria-label="Previous image">‹</button> <button type="button" class="carousel-arrow carousel-next" aria-label="Next image">›</button> <span class="carousel-indicator" aria-live="polite">1/5</span>
+         </div>
+         <div class="flex flex-1 flex-col p-3">
+          <p data-template-id="custom-exhibit-client-05-label" class="canva-text eyebrow mb-2" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT 05</p>
+          <h2 data-template-id="custom-exhibit-client-05-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Project title placeholder</h2>
+          <p data-template-id="custom-exhibit-client-05-description" class="canva-text mt-3 flex-1 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Project information placeholder.</p>
+          <dl class="mt-2 grid gap-1 border-t border-[#dfe4e9] pt-2 sm:grid-cols-2">
+           <div>
+            <dt data-template-id="custom-exhibit-client-05-client-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT</dt>
+            <dd data-template-id="custom-exhibit-client-05-client" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-05-location-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">LOCATION</dt>
+            <dd data-template-id="custom-exhibit-client-05-location" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-05-date-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">DATE</dt>
+            <dd data-template-id="custom-exhibit-client-05-date" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+           <div>
+            <dt data-template-id="custom-exhibit-client-05-services-label" class="canva-text eyebrow mb-1" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">SERVICES</dt>
+            <dd data-template-id="custom-exhibit-client-05-services" class="canva-text" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;"></dd>
+           </div>
+          </dl>
+         </div>
+        </article>
+       </div>
+      </div>
+     </section>
+    </div>
+    <div id="view-promotional-events" class="view" hidden="">
+     <section data-template-id="promotional-events-banner" class="canva-section angled py-20 md:py-28" style="background: rgb(16, 28, 52);">
+      <div class="site-inner">
+       <p data-template-id="promotional-events-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">PROJECT CATEGORY</p>
+       <h1 id="promotional-events-heading" tabindex="-1" data-template-id="promotional-events-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Promotional Events and Roadshows</h1>
+       <p data-template-id="promotional-events-copy" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Placeholder page for Promotional Events and Roadshows. Project details can be added here as the portfolio grows.</p><a data-template-id="promotional-events-back" class="canva-button action mt-8 border-2 border-white" href="#projects" style="background: none; color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">← Back to Projects</a>
+      </div>
+     </section>
+     <section class="section-space">
+      <div class="site-inner">
+       <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <article data-template-id="promotional-client-card-1" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window"><img data-template-id="promotional-client-image-1" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/31858689/pexels-photo-31858689.jpeg" alt="Bright and colorful indoor exhibit at the Canva Suite Shop with vibrant decorations.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="promotional-client-label-1" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT PROJECT 1</p>
+          <div data-template-id="promotional-client-info-1" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+        <article data-template-id="promotional-client-card-2" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window"><img data-template-id="promotional-client-image-2" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/31311125/pexels-photo-31311125.jpeg" alt="Contemporary trade show booth featuring stylish chairs, branded decor, and product display for networking.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="promotional-client-label-2" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT PROJECT 2</p>
+          <div data-template-id="promotional-client-info-2" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+        <article data-template-id="promotional-client-card-3" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window"><img data-template-id="promotional-client-image-3" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/33827618/pexels-photo-33827618.jpeg" alt="Display of branded buttons and candies at a marketing event.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="promotional-client-label-3" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT PROJECT 3</p>
+          <div data-template-id="promotional-client-info-3" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+        <article data-template-id="promotional-client-card-4" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window"><img data-template-id="promotional-client-image-4" class="canva-image card-image" loading="lazy" src="canva://MADTVMgDTJk/1" alt="A bustling trade show exhibition inside a modern hall with people networking and exploring booths.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="promotional-client-label-4" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT PROJECT 4</p>
+          <div data-template-id="promotional-client-info-4" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+        <article data-template-id="promotional-client-card-5" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window"><img data-template-id="promotional-client-image-5" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/31858685/pexels-photo-31858685.jpeg" alt="Colorful booth setup at YouTube Theater with vibrant decor and seating.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="promotional-client-label-5" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">CLIENT PROJECT 5</p>
+          <div data-template-id="promotional-client-info-5" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+       </div>
+      </div>
+     </section>
+    </div>
+    <div id="view-permanent-displays" class="view" hidden="">
+     <section data-template-id="permanent-displays-banner" class="canva-section angled py-20 md:py-28" style="background: rgb(16, 28, 52);">
+      <div class="site-inner">
+       <p data-template-id="permanent-displays-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">PROJECT CATEGORY</p>
+       <h1 id="permanent-displays-heading" tabindex="-1" data-template-id="permanent-displays-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Permanent Displays and Shop-fittings</h1>
+       <p data-template-id="permanent-displays-copy" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">A responsive showcase of permanent display and shop-fitting project spaces. Add project details as the gallery grows.</p><a data-template-id="permanent-displays-back" class="canva-button action mt-8 border-2 border-white" href="#projects" style="background: none; color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">← Back to Projects</a>
+      </div>
+     </section>
+     <section class="section-space">
+      <div class="site-inner">
+       <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <article data-template-id="permanent-client-card-1" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window">
+          <img data-template-id="permanent-client-image-1" class="canva-image card-image" loading="lazy" src="canva://MAG99WKGDqU/1" alt="Neatly organized shelves with folded clothes in a contemporary store setting.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="permanent-client-label-1" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">Client Project 1</p>
+          <div data-template-id="permanent-client-info-1" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+        <article data-template-id="permanent-client-card-2" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window">
+          <img data-template-id="permanent-client-image-2" class="canva-image card-image" loading="lazy" src="canva://MAGvhkF8SiA/1" alt="Contemporary interior setting with designer furniture, shelves, and textiles.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="permanent-client-label-2" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">Client Project 2</p>
+          <div data-template-id="permanent-client-info-2" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+        <article data-template-id="permanent-client-card-3" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window">
+          <img data-template-id="permanent-client-image-3" class="canva-image card-image" loading="lazy" src="canva://MAFPTeCqfuA/1" alt="Modern clothing boutique with fitting room mirror and hanging garments.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="permanent-client-label-3" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">Client Project 3</p>
+          <div data-template-id="permanent-client-info-3" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+        <article data-template-id="permanent-client-card-4" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window">
+          <img data-template-id="permanent-client-image-4" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/13068378/pexels-photo-13068378.jpeg" alt="Modern cosmetic store with sleek display units and shelving.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="permanent-client-label-4" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">Client Project 4</p>
+          <div data-template-id="permanent-client-info-4" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+        <article data-template-id="permanent-client-card-5" class="canva-card card overflow-hidden" style="background: rgb(255, 255, 255);">
+         <div class="image-window">
+          <img data-template-id="permanent-client-image-5" class="canva-image card-image" loading="lazy" src="https://images.pexels.com/photos/38036122/pexels-photo-38036122.jpeg" alt="Sleek contemporary bookstore interior with polished white display tables.">
+         </div>
+         <div class="p-6">
+          <p data-template-id="permanent-client-label-5" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">Client Project 5</p>
+          <div data-template-id="permanent-client-info-5" class="canva-panel min-h-[86px] border-t border-[#dfe4e9] pt-4" style="background: rgb(255, 255, 255);"></div>
+         </div>
+        </article>
+       </div>
+      </div>
+     </section>
+    </div>
+    <div id="view-commercial-interiors" class="view" hidden="">
+     <section data-template-id="commercial-interiors-banner" class="canva-section angled py-20 md:py-28" style="background: rgb(16, 28, 52);">
+      <div class="site-inner">
+       <p data-template-id="commercial-interiors-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">PROJECT CATEGORY</p>
+       <h1 id="commercial-interiors-heading" tabindex="-1" data-template-id="commercial-interiors-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Commercial Interior Design and Architecture</h1>
+       <p data-template-id="commercial-interiors-copy" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Placeholder page for Commercial Interior Design and Architecture. Project details can be added here as the portfolio grows.</p>
+      </div>
+     </section>
+    </div>
+    <div id="view-point-of-sales" class="view" hidden="">
+     <section data-template-id="point-of-sales-banner" class="canva-section angled py-20 md:py-28" style="background: rgb(16, 28, 52);">
+      <div class="site-inner">
+       <p data-template-id="point-of-sales-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">PROJECT CATEGORY</p>
+       <h1 id="point-of-sales-heading" tabindex="-1" data-template-id="point-of-sales-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Point of Sales Setups</h1>
+       <p data-template-id="point-of-sales-copy" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Placeholder page for Point of Sales Setups. Project details can be added here as the portfolio grows.</p>
+      </div>
+     </section>
+    </div>
+    <div id="view-larger-than-life-graphics" class="view" hidden="">
+     <section data-template-id="larger-than-life-graphics-banner" class="canva-section angled py-20 md:py-28" style="background: rgb(16, 28, 52);">
+      <div class="site-inner">
+       <p data-template-id="larger-than-life-graphics-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">PROJECT CATEGORY</p>
+       <h1 id="larger-than-life-graphics-heading" tabindex="-1" data-template-id="larger-than-life-graphics-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Larger Than Life Graphics Displays</h1>
+       <p data-template-id="larger-than-life-graphics-copy" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Placeholder page for Larger Than Life Graphics Displays. Project details can be added here as the portfolio grows.</p>
+      </div>
+     </section>
+    </div>
+    <div id="view-about" class="view" hidden="">
+     <section data-template-id="about-banner" class="canva-section angled py-20 md:py-28" style="background: linear-gradient(90deg, rgb(34, 74, 168), rgb(181, 111, 220));">
+      <div class="site-inner">
+       <p data-template-id="about-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">ABOUT IDISPLAY INC.</p>
+       <h1 id="about-heading" tabindex="-1" data-template-id="about-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Imagination, Made Tangible</h1>
+       <p data-template-id="about-intro" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Exhibits | Events | Displays | Beyond Expectation</p>
+      </div>
+     </section>
+     <section class="section-space">
+      <div class="site-inner grid items-center gap-10 md:grid-cols-2">
+       <img data-template-id="about-image" class="canva-image h-[370px] w-full object-cover" loading="lazy" src="https://images.pexels.com/photos/35138560/pexels-photo-35138560.jpeg" alt="A bustling trade show exhibition inside a modern hall with people networking and exploring booths.">
+       <div>
+        <p data-template-id="story-eyebrow" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">ABOUT US</p>
+        <h2 data-template-id="story-title" class="canva-text" style="color: rgb(16, 28, 52); font-weight: 800; font-style: normal; font-size: 24px;">Specialized from Start to Finish</h2>
+        <div class="red-rule my-6"></div>
+        <p data-template-id="story-copy" class="canva-text lead" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">iDisplay Inc. is a world-class service provider in the exhibition, display, and events industry in the Philippines. We offer specialized, hassle-free, quality services spanning design, planning, management, fabrication, and construction.</p>
+        <p data-template-id="story-second" class="canva-text lead mt-4" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Our skilled, multi-talented team brings more than 15 years of industry mastery and experience to small- and large-scale projects.</p>
+       </div>
+      </div>
+     </section>
+     <section data-template-id="mission-band" class="canva-section section-space angled" style="background: linear-gradient(90deg, rgb(34, 74, 168), rgb(181, 111, 220));">
+      <div class="site-inner grid gap-8 md:grid-cols-2">
+       <article>
+        <p data-template-id="mission-eyebrow" class="canva-text eyebrow mb-3" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">OUR DIRECTION</p>
+        <h2 data-template-id="mission-title" class="canva-text mb-5" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 24px;">Our Mission</h2>
+        <p data-template-id="mission-copy" class="canva-text lead" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">To be the market leader in the events, exhibitions, and display industry in the Philippines.</p>
+       </article>
+       <article class="border-t-4 border-[#d91e28] bg-white p-7 md:p-9">
+        <p data-template-id="vision-eyebrow" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">LOOKING AHEAD</p>
+        <h2 data-template-id="vision-title" class="canva-text mb-5" style="color: rgb(0, 74, 173); font-weight: 800; font-style: normal; font-size: 24px;">Our Vision</h2>
+        <p data-template-id="vision-copy" class="canva-text lead" style="color: rgb(0, 74, 173); font-weight: 400; font-style: normal; font-size: 16px;">To be the leading provider of exceptional services for exhibition, display and events recognized nationwide.</p>
+       </article>
+      </div>
+     </section>
+     <section class="section-space">
+      <div class="site-inner">
+       <p data-template-id="process-eyebrow" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">ONE CONNECTED APPROACH</p>
+       <h2 data-template-id="process-title" class="canva-text mb-4" style="color: rgb(16, 28, 52); font-weight: 800; font-style: normal; font-size: 24px;">From Idea to Installation</h2>
+       <p data-template-id="process-copy" class="canva-text lead max-w-3xl" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">We design, plan, manage, fabricate, and construct projects at every scale, bringing specialized services together around each brief.</p>
+       <div class="mt-9 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        <div class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h3 data-template-id="process-1" class="canva-text" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Design &amp; Planning</h3>
+        </div>
+        <div class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h3 data-template-id="process-2" class="canva-text" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Project Management</h3>
+        </div>
+        <div class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h3 data-template-id="process-3" class="canva-text" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Fabrication</h3>
+        </div>
+        <div class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h3 data-template-id="process-4" class="canva-text" style="color: rgb(16, 28, 52); font-weight: 700; font-style: normal; font-size: 19px;">Construction</h3>
+        </div>
+       </div>
+       <p data-template-id="about-tagline" class="canva-text eyebrow mt-12" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">EXHIBITS | EVENTS | DISPLAYS | BEYOND EXPECTATION</p>
+      </div>
+     </section>
+    </div>
+    <div id="view-services" class="view" hidden="">
+     <section data-template-id="services-banner" class="canva-section angled py-20 md:py-28" style="background: rgb(16, 28, 52);">
+      <div class="site-inner">
+       <p data-template-id="services-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">OUR EXPERTISE</p>
+       <h1 id="services-heading" tabindex="-1" data-template-id="services-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">What We Bring to Life</h1>
+       <p data-template-id="services-intro" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Nine specialized offerings, connected by an end-to-end approach from concept to construction.</p>
+      </div>
+     </section>
+     <section class="section-space">
+      <div class="site-inner">
+       <div class="mb-11 grid items-center gap-8 md:grid-cols-2"><img data-template-id="services-image" class="canva-image h-[310px] w-full object-cover" loading="lazy" src="https://images.pexels.com/photos/20042067/pexels-photo-20042067.jpeg" alt="Close-up of a modern printing machine in a professional studio.">
+        <div>
+         <p data-template-id="service-feature-eyebrow" class="canva-text eyebrow mb-3" style="color: rgb(189, 23, 33); font-weight: 400; font-style: normal; font-size: 16px;">ONE CONNECTED APPROACH</p>
+         <h2 data-template-id="service-feature-title" class="canva-text mb-5" style="color: rgb(16, 28, 52); font-weight: 800; font-style: normal; font-size: 24px;">From Concept to Creation</h2>
+         <p data-template-id="service-feature-copy" class="canva-text lead" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">We design, plan, manage, fabricate, and construct projects at every scale, bringing specialized services together around each brief.</p>
+        </div>
+       </div>
+       <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <article class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h2 data-template-id="service-1-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Custom Exhibits</h2>
+         <p data-template-id="service-1-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Custom exhibition environments developed around display needs, from planning through construction.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h2 data-template-id="service-2-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Promotional Events and Roadshows</h2>
+         <p data-template-id="service-2-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Planned and produced promotional experiences for events and roadshow formats.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h2 data-template-id="service-3-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Permanent Displays and Shop-fittings</h2>
+         <p data-template-id="service-3-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Long-term displays and shop-fittings tailored to the requirements of each space.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h2 data-template-id="service-4-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Commercial Interior Design and Architecture</h2>
+         <p data-template-id="service-4-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Commercial interior and architectural design shaped around the project brief.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h2 data-template-id="service-5-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Innovative Marketing Ideas and Concepts</h2>
+         <p data-template-id="service-5-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Creative marketing ideas and concepts developed to express a brand in new ways.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h2 data-template-id="service-6-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Point-of-Sale Setups</h2>
+         <p data-template-id="service-6-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Purposeful point-of-sale setups for customer-facing brand presentation.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h2 data-template-id="service-7-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Larger-than-Life Graphic Displays</h2>
+         <p data-template-id="service-7-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Large-scale graphic displays designed for visual presence.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h2 data-template-id="service-8-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Corporate Giveaways</h2>
+         <p data-template-id="service-8-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Corporate giveaway concepts aligned with your brand and occasion.</p>
+        </article>
+        <article class="service-card"><span class="marker mb-6" aria-hidden="true"></span>
+         <h2 data-template-id="service-9-title" class="canva-text !normal-case" style="font-size: 24px; color: rgb(16, 28, 52); font-weight: 700; font-style: normal;">Large-Format Printing for indoor and outdoor tarpaulins and stickers</h2>
+         <p data-template-id="service-9-copy" class="canva-text mt-3 leading-relaxed" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Large-format printing for indoor and outdoor tarpaulins and stickers.</p>
+        </article>
+       </div><a data-template-id="services-cta" class="canva-button action mt-9" href="#contact" style="background: rgb(217, 30, 40); color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Request a Quotation ↗</a>
+      </div>
+     </section>
+    </div>
+    <div id="view-contact" class="view" hidden="">
+     <section data-template-id="contact-banner" class="canva-section angled py-20 md:py-28" style="background: rgb(16, 28, 52);">
+      <div class="site-inner">
+       <p data-template-id="contact-eyebrow" class="canva-text eyebrow mb-5" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">START A CONVERSATION</p>
+       <h1 id="contact-heading" tabindex="-1" data-template-id="contact-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 32px;">Tell Us About Your Project</h1>
+       <p data-template-id="contact-intro" class="canva-text lead mt-5 max-w-2xl" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Share your brief and the iDisplay Inc. team can follow up by email.</p>
+      </div>
+     </section>
+     <section class="section-space">
+      <div class="site-inner grid gap-8 lg:grid-cols-[1.4fr_.8fr]">
+       <div data-template-id="inquiry-panel" class="canva-panel border-t-[6px] border-[#d91e28] p-6 shadow-lg md:p-10" style="background: rgb(255, 255, 255);">
+        <h2 data-template-id="form-title" class="canva-text mb-3" style="color: rgb(16, 28, 52); font-weight: 800; font-style: normal; font-size: 24px;">Start a Project</h2>
+        <p data-template-id="form-intro" class="canva-text mb-8" style="color: rgb(83, 97, 117); font-weight: 400; font-style: normal; font-size: 16px;">Tell us what you have in mind. Fields marked * are required.</p>
+        <form id="inquiry-form" novalidate="">
+         <div class="grid gap-5 sm:grid-cols-2">
+          <div><label data-template-id="name-label" class="canva-text mb-2 block font-semibold" for="inquiry-name" style="color: rgb(23, 34, 56); font-weight: 400; font-style: normal; font-size: 16px;">Name *</label><input id="inquiry-name" name="name" class="field" autocomplete="name" required="" maxlength="100">
+          </div>
+          <div><label data-template-id="email-label" class="canva-text mb-2 block font-semibold" for="inquiry-email" style="color: rgb(23, 34, 56); font-weight: 400; font-style: normal; font-size: 16px;">Email *</label><input id="inquiry-email" name="email" type="email" class="field" autocomplete="email" required="" maxlength="150">
+          </div>
+          <div><label data-template-id="phone-label" class="canva-text mb-2 block font-semibold" for="inquiry-phone" style="color: rgb(23, 34, 56); font-weight: 400; font-style: normal; font-size: 16px;">Phone</label><input id="inquiry-phone" name="phone" type="tel" class="field" autocomplete="tel" maxlength="40">
+          </div>
+          <div><label data-template-id="type-label" class="canva-text mb-2 block font-semibold" for="inquiry-type" style="color: rgb(23, 34, 56); font-weight: 400; font-style: normal; font-size: 16px;">Project type *</label><select id="inquiry-type" name="project_type" class="field" required=""> <option data-template-id="type-placeholder" value="" style="font-weight: 400; font-style: normal; font-size: 16px;">Select a project type</option><option data-template-id="type-1" value="Custom Exhibits" style="font-weight: 400; font-style: normal; font-size: 16px;">Custom Exhibits</option><option data-template-id="type-2" value="Promotional Events and Roadshows" style="font-weight: 400; font-style: normal; font-size: 16px;">Promotional Events and Roadshows</option><option data-template-id="type-3" value="Permanent Displays and Shop-fittings" style="font-weight: 400; font-style: normal; font-size: 16px;">Permanent Displays and Shop-fittings</option><option data-template-id="type-4" value="Commercial Interior Design and Architecture" style="font-weight: 400; font-style: normal; font-size: 16px;">Commercial Interior Design and Architecture</option><option data-template-id="type-5" value="Innovative Marketing Ideas and Concepts" style="font-weight: 400; font-style: normal; font-size: 16px;">Innovative Marketing Ideas and Concepts</option><option data-template-id="type-6" value="Point-of-Sale Setups" style="font-weight: 400; font-style: normal; font-size: 16px;">Point-of-Sale Setups</option><option data-template-id="type-7" value="Larger-than-Life Graphic Displays" style="font-weight: 400; font-style: normal; font-size: 16px;">Larger-than-Life Graphic Displays</option><option data-template-id="type-8" value="Corporate Giveaways" style="font-weight: 400; font-style: normal; font-size: 16px;">Corporate Giveaways</option><option data-template-id="type-9" value="Large-Format Printing for indoor and outdoor tarpaulins and stickers" style="font-weight: 400; font-style: normal; font-size: 16px;">Large-Format Printing for indoor and outdoor tarpaulins and stickers</option> </select>
+          </div>
+          <div class="sm:col-span-2"><label data-template-id="budget-label" class="canva-text mb-2 block font-semibold" for="inquiry-budget" style="color: rgb(23, 34, 56); font-weight: 400; font-style: normal; font-size: 16px;">Budget information (optional)</label><select id="inquiry-budget" name="budget_range" class="field"><option data-template-id="budget-placeholder" value="" style="font-weight: 400; font-style: normal; font-size: 16px;">Select an option</option><option data-template-id="budget-discuss" value="To be discussed" style="font-weight: 400; font-style: normal; font-size: 16px;">To be discussed</option><option data-template-id="budget-message" value="Budget shared in message" style="font-weight: 400; font-style: normal; font-size: 16px;">Budget shared in message</option></select>
+          </div>
+          <div class="sm:col-span-2"><label data-template-id="message-label" class="canva-text mb-2 block font-semibold" for="inquiry-message" style="color: rgb(23, 34, 56); font-weight: 400; font-style: normal; font-size: 16px;">Tell us about your project *</label><textarea id="inquiry-message" name="message" class="field min-h-[145px]" required="" minlength="10" maxlength="3000"></textarea>
+          </div>
+         </div>
+         <p id="form-error" class="mt-4 hidden font-semibold text-[#a91520]" role="alert"></p>
+         <p id="form-success" class="mt-4 hidden font-semibold text-[#17623c]" role="status"></p><button id="submit-inquiry" type="submit" data-template-id="submit-button" class="canva-button action mt-6 disabled:cursor-wait disabled:opacity-60" style="background: rgb(217, 30, 40); color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Send Inquiry ↗</button>
+        </form>
+       </div>
+       <aside data-template-id="contact-aside" class="canva-panel self-start p-7 md:p-9" style="background: rgb(25, 43, 73);">
+        <p data-template-id="contact-aside-eyebrow" class="canva-text eyebrow mb-3" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">CONTACT DETAILS</p>
+        <h2 data-template-id="contact-aside-title" class="canva-text mb-8" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 24px;">Connect with iDisplay</h2>
+        <p data-template-id="contact-email-label" class="canva-text eyebrow mb-2" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">EMAIL</p>
+        <p data-template-id="contact-email" class="canva-text mb-6" style="color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Placeholder — add official email address</p>
+        <p data-template-id="contact-phone-label" class="canva-text eyebrow mb-2" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">PHONE</p>
+        <p data-template-id="contact-phone" class="canva-text mb-6" style="color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Placeholder — add official phone number</p>
+        <p data-template-id="office-hours-label" class="canva-text eyebrow mb-2" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">OFFICE HOURS</p>
+        <p data-template-id="office-hours" class="canva-text mb-6" style="color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Placeholder — add official office hours</p>
+        <p data-template-id="office-location-label" class="canva-text eyebrow mb-2" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">ADDRESS</p>
+        <p data-template-id="office-location" class="canva-text mb-6" style="color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Placeholder — add official office address</p>
+        <p data-template-id="social-label" class="canva-text eyebrow mb-2" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">SOCIAL LINKS</p>
+        <p data-template-id="social-placeholder" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 400; font-style: normal; font-size: 16px;">Placeholder — add official social links</p>
+       </aside>
+      </div>
+     </section>
+    </div>
+   </main>
+   <footer data-template-id="footer-section" class="canva-footer" style="background: rgb(25, 43, 73);">
+    <div data-template-id="footer-cta-band" class="canva-banner py-9" style="background: rgb(189, 23, 33);">
+     <div class="site-inner flex flex-wrap items-center justify-between gap-5">
+      <h2 data-template-id="footer-cta-title" class="canva-text" style="color: rgb(255, 255, 255); font-weight: 800; font-style: normal; font-size: 24px;">Let’s Build What’s Next</h2><a data-template-id="footer-cta" class="canva-button action" href="#contact" style="background: rgb(255, 255, 255); color: rgb(16, 28, 52); font-weight: 400; font-style: normal; font-size: 16px;">Start a Project ↗</a>
+     </div>
+    </div>
+    <div class="site-inner grid gap-10 py-14 md:grid-cols-[1.2fr_1fr]">
+     <div><a href="#home" aria-label="iDisplay Inc. home"><img data-template-id="footer-logo" class="canva-image brand-logo mb-7" loading="lazy" src="canva://MAHYeXVCoMc/1" alt="iDisplay Inc. logo"></a>
+      <p data-template-id="footer-tagline" class="canva-text eyebrow mb-4" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">EXHIBITS | EVENTS | DISPLAYS | BEYOND EXPECTATION</p>
+      <p data-template-id="footer-copy" class="canva-text max-w-md leading-relaxed" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">From your first idea to the finishing details, let’s explore what your project could become.</p>
+     </div>
+     <div>
+      <p data-template-id="footer-contact-label" class="canva-text eyebrow mb-4" style="color: rgb(255, 146, 151); font-weight: 400; font-style: normal; font-size: 16px;">GET IN TOUCH</p>
+      <p data-template-id="footer-email" class="canva-text mb-2" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Email: placeholder — add official address</p>
+      <p data-template-id="footer-phone" class="canva-text mb-2" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Phone: placeholder — add official number</p>
+      <p data-template-id="footer-location" class="canva-text mb-6" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Office: placeholder — add official address</p>
+      <nav class="flex flex-wrap gap-x-5 gap-y-2" aria-label="Footer navigation"><a data-template-id="footer-home" class="canva-link underline-offset-4 hover:underline" href="#home" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Home</a><a data-template-id="footer-projects" class="canva-link underline-offset-4 hover:underline" href="#projects" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Projects</a><a data-template-id="footer-about" class="canva-link underline-offset-4 hover:underline" href="#about" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">About</a><a data-template-id="footer-services" class="canva-link underline-offset-4 hover:underline" href="#services" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Services</a><a data-template-id="footer-contact" class="canva-link underline-offset-4 hover:underline" href="#contact" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Contact</a>
+      </nav>
+     </div>
+    </div>
+    <div class="site-inner flex flex-wrap justify-between gap-3 border-t border-white/20 py-5">
+     <p data-template-id="footer-copyright" class="canva-text" style="color: rgb(186, 199, 216); font-weight: 400; font-style: normal; font-size: 16px;">© 2026 iDisplay Inc.</p><a data-template-id="footer-back-top" class="canva-link hover:underline" href="#home" style="color: rgb(233, 238, 245); font-weight: 400; font-style: normal; font-size: 16px;">Back to home ↑</a>
+    </div>
+   </footer>
+  </div>
+  <div id="image-lightbox" class="image-lightbox" hidden="" role="dialog" aria-modal="true" aria-labelledby="image-lightbox-title">
+   <div class="image-lightbox-content">
+    <h2 id="image-lightbox-title" class="sr-only">Enlarged exhibit image</h2>
+    <div id="image-lightbox-preview" class="image-lightbox-preview" role="img" aria-label="Enlarged exhibit image"></div><button id="image-lightbox-close" class="image-lightbox-close" type="button" aria-label="Close enlarged image">×</button>
+   </div>
+  </div>
+  <script>
+  const pages=["home","projects","custom-exhibits","promotional-events","permanent-displays","commercial-interiors","point-of-sales","larger-than-life-graphics","about","services","contact"];
+  const menuButton=document.getElementById("menu-toggle");
+  const mobileMenu=document.getElementById("mobile-menu");
+  const projectsGroup=document.querySelector(".projects-nav-group"),projectsLink=document.getElementById("nav-projects"),projectsDropdown=document.getElementById("projects-dropdown");
+  function closeProjects(){projectsGroup.classList.remove("is-open");projectsLink.setAttribute("aria-expanded","false")}
+  function toggleProjects(){const open=!projectsGroup.classList.contains("is-open");projectsGroup.classList.toggle("is-open",open);projectsLink.setAttribute("aria-expanded",String(open))}
+  projectsLink.addEventListener("click",event=>{if(window.matchMedia("(max-width: 820px)").matches){event.preventDefault();toggleProjects()}else{event.preventDefault();closeProjects();location.hash="#projects"}});
+  projectsLink.addEventListener("keydown",event=>{if(event.key==="Enter"||event.key===" "){event.preventDefault();toggleProjects()}if(event.key==="ArrowDown"){event.preventDefault();projectsDropdown.querySelector("a")?.focus()}});
+  projectsDropdown.addEventListener("click",event=>{
+    const customLink=event.target.closest('a[href="#custom-exhibits"]');
+    closeProjects();
+    if(customLink){event.preventDefault();window.location.hash="custom-exhibits";}
+  });
+  document.addEventListener("click",event=>{if(!projectsGroup.contains(event.target))closeProjects()});
+  document.addEventListener("keydown",event=>{if(event.key==="Escape")closeProjects()});
+  projectsGroup.addEventListener("mouseleave",()=>closeProjects());
+  const mobileProjectsGroup=document.querySelector(".mobile-projects-group"),mobileProjectsLink=document.getElementById("mobile-projects-link");
+  mobileProjectsLink.addEventListener("click",event=>{event.preventDefault();const open=!mobileProjectsGroup.classList.contains("is-open");mobileProjectsGroup.classList.toggle("is-open",open);mobileProjectsLink.setAttribute("aria-expanded",String(open))});
+  document.querySelectorAll('.mobile-projects-dropdown a[href="#custom-exhibits"]').forEach(link=>link.addEventListener("click",event=>{event.preventDefault();closeMenu();window.location.hash="custom-exhibits"}));
+  function closeMenu(){mobileMenu.classList.remove("open");mobileMenu.inert=true;mobileProjectsGroup?.classList.remove("is-open");mobileProjectsLink?.setAttribute("aria-expanded","false");menuButton.setAttribute("aria-expanded","false");menuButton.setAttribute("aria-label","Open navigation menu")}
+  menuButton.addEventListener("click",()=>{const opening=!mobileMenu.classList.contains("open");mobileMenu.classList.toggle("open",opening);mobileMenu.inert=!opening;menuButton.setAttribute("aria-expanded",String(opening));menuButton.setAttribute("aria-label",opening?"Close navigation menu":"Open navigation menu")});
+  document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!mobileMenu.inert){closeMenu();menuButton.focus()}});
+  function navigateTo(page){if(!pages.includes(page))page="home";if(location.hash.slice(1).toLowerCase()===page)showRoute(true);else location.hash=page}
+  function showRoute(focus=false){const requested=location.hash.slice(1).toLowerCase();const page=pages.includes(requested)?requested:"home";pages.forEach(name=>document.getElementById("view-"+name).hidden=name!==page);document.querySelectorAll(".nav-link").forEach(link=>{if(link.getAttribute("href")==="#"+page)link.setAttribute("aria-current","page");else link.removeAttribute("aria-current")});closeProjects();closeMenu();window.scrollTo(0,0);if(focus)document.getElementById(page+"-heading").focus({preventScroll:true})}
+  function bindPrimaryNavigation(selector){document.querySelectorAll(selector).forEach(link=>link.addEventListener("click",event=>{const target=link.getAttribute("href");if(!target||!target.startsWith("#"))return;event.preventDefault();navigateTo(target.slice(1).toLowerCase())}))}
+  bindPrimaryNavigation('.desktop-nav > a[href^="#"]');
+  bindPrimaryNavigation('#mobile-menu > a[href^="#"]');
+  bindPrimaryNavigation('a[href="#permanent-displays"]');
+  document.querySelectorAll('.image-window').forEach(carousel=>{
+    const slides=[...carousel.querySelectorAll('.carousel-slide')];
+    if(!slides.length)return;
+    const indicator=carousel.querySelector('.carousel-indicator');
+    let index=0;
+    function showSlide(nextIndex){index=(nextIndex+slides.length)%slides.length;slides.forEach((slide,slideIndex)=>slide.classList.toggle('hidden',slideIndex!==index));if(indicator)indicator.textContent=`${index+1}/${slides.length}`}
+    carousel.querySelector('.carousel-prev')?.addEventListener('click',event=>{event.stopPropagation();showSlide(index-1)});
+    carousel.querySelector('.carousel-next')?.addEventListener('click',event=>{event.stopPropagation();showSlide(index+1)});
+    carousel.addEventListener('click',event=>{
+      if(event.target.closest('.carousel-arrow'))return;
+      const activeSlide=event.target.closest('.carousel-slide:not(.hidden)');
+      if(activeSlide&&carousel.contains(activeSlide))openImageLightbox(activeSlide);
+    });
+    carousel.addEventListener('keydown',event=>{
+      if(event.key!=='Enter'&&event.key!==' ')return;
+      if(event.target.closest('.carousel-arrow'))return;
+      const activeSlide=event.target.closest('.carousel-slide:not(.hidden)');
+      if(activeSlide&&carousel.contains(activeSlide)){event.preventDefault();openImageLightbox(activeSlide)}
+    });
+    slides.forEach(slide=>{slide.tabIndex=0;slide.setAttribute('role','button')});
+  });
+  const customExhibitsImage=document.querySelector('[data-template-id="project-1-image"]');
+  customExhibitsImage.addEventListener("click",()=>navigateTo("custom-exhibits"));
+  customExhibitsImage.addEventListener("keydown",event=>{if(event.key==="Enter"||event.key===" "){event.preventDefault();navigateTo("custom-exhibits")}});
+  const promotionalEventsImage=document.querySelector('[data-template-id="project-2-image"]');
+  promotionalEventsImage.addEventListener("click",()=>navigateTo("promotional-events"));
+  promotionalEventsImage.addEventListener("keydown",event=>{if(event.key==="Enter"||event.key===" "){event.preventDefault();navigateTo("promotional-events")}});
+  const imageLightbox=document.getElementById("image-lightbox"),imageLightboxPreview=document.getElementById("image-lightbox-preview"),imageLightboxClose=document.getElementById("image-lightbox-close");
+  let lightboxPreviousFocus=null;
+  function closeImageLightbox(){imageLightbox.hidden=true;imageLightboxPreview.style.backgroundImage="none";lightboxPreviousFocus?.focus();lightboxPreviousFocus=null}
+  function openImageLightbox(image){if(!image?.src)return;lightboxPreviousFocus=document.activeElement;imageLightboxPreview.style.backgroundImage=`url("${image.src}")`;imageLightboxPreview.style.backgroundPosition="center";imageLightboxPreview.style.backgroundRepeat="no-repeat";imageLightboxPreview.style.backgroundSize="contain";imageLightbox.hidden=false;imageLightboxClose.focus()}
+  customExhibitsImage.addEventListener("click",()=>openImageLightbox(customExhibitsImage));customExhibitsImage.addEventListener("keydown",event=>{if(event.key==="Enter"||event.key===" "){event.preventDefault();openImageLightbox(customExhibitsImage)}});imageLightboxClose.addEventListener("click",closeImageLightbox);imageLightbox.addEventListener("click",event=>{if(event.target===imageLightbox)closeImageLightbox()});document.addEventListener("keydown",event=>{if(event.key==="Escape"&&!imageLightbox.hidden)closeImageLightbox()});
+  window.addEventListener("hashchange",()=>showRoute(true));showRoute();
+
+  const clientsMarquee=document.querySelector(".clients-marquee");
+  let dragActive=false,dragStartX=0,dragScrollLeft=0;
+  clientsMarquee.addEventListener("pointerdown",event=>{dragActive=true;dragStartX=event.clientX;dragScrollLeft=clientsMarquee.scrollLeft;clientsMarquee.setPointerCapture(event.pointerId)});
+  clientsMarquee.addEventListener("pointermove",event=>{if(!dragActive)return;event.preventDefault();clientsMarquee.scrollLeft=dragScrollLeft-(event.clientX-dragStartX)});
+  ["pointerup","pointercancel","lostpointercapture"].forEach(type=>clientsMarquee.addEventListener(type,()=>{dragActive=false}));
+
+  const form=document.getElementById("inquiry-form");
+  const submitButton=document.getElementById("submit-inquiry");
+  const errorBox=document.getElementById("form-error");
+  const successBox=document.getElementById("form-success");
+  let sheetReady=false;
+  async function initializeSheet(){
+    if(!window.dataSdk)return false;
+    try{const result=await window.dataSdk.init({onDataChanged(){/* Write-only submissions are intentionally not displayed. */}});sheetReady=result.isOk}
+    catch(_){sheetReady=false}
+    return sheetReady;
+  }
+  initializeSheet();
+  function showMessage(kind,message){const current=kind==="error"?errorBox:successBox;const other=kind==="error"?successBox:errorBox;other.classList.add("hidden");current.textContent=message;current.classList.remove("hidden")}
+  form.addEventListener("submit",async event=>{
+    event.preventDefault();errorBox.classList.add("hidden");successBox.classList.add("hidden");
+    const name=form.elements.name.value.trim(),email=form.elements.email.value.trim(),phone=form.elements.phone.value.trim(),project_type=form.elements.project_type.value,budget_range=form.elements.budget_range.value,message=form.elements.message.value.trim();
+    if(!form.checkValidity()||!name||!project_type||message.length<10){showMessage("error","Please complete the required fields and provide at least 10 characters about your project.");form.querySelector(":invalid")?.focus();return}
+    if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){showMessage("error","Please enter a valid email address.");form.elements.email.focus();return}
+    submitButton.disabled=true;submitButton.setAttribute("aria-busy","true");
+    try{
+      if(!sheetReady&&!(await initializeSheet())){showMessage("error","The inquiry form could not connect. Please try again.");return}
+      const result=await window.dataSdk.create({name,email,phone,project_type,budget_range,message,created_at:new Date().toISOString()});
+      if(!result.isOk){showMessage("error","We could not confirm your inquiry. Please refresh before trying again.");return}
+      form.reset();showMessage("success","Thank you. Your inquiry has been received; the iDisplay Inc. team can follow up by email.");
+    }catch(_){showMessage("error","We could not confirm your inquiry. Please refresh before trying again.")}
+    finally{submitButton.disabled=false;submitButton.removeAttribute("aria-busy")}
+  });
+</script>
+ 
+</body></html>

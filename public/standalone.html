@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>iDisplay Inc. — Exhibits, Events & Displays | Taytay, Rizal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    /* ============================================================
+       CSS STYLESHEET
+       ============================================================ */
+    :root {
+      --primary-red: #d91e28;
+      --primary-red-hover: #b8141d;
+      --navy-dark: #101c34;
+      --navy-light: #192b49;
+      --black-card: #0c121e;
+      --black-card-inner: #141d2d;
+      --paper-bg: #f3f5f7;
+      --text-ink: #172238;
+      --text-muted: #536175;
+      --border-color: #dfe4e9;
+      --font-display: "Barlow Condensed", -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-body: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: var(--font-body);
+      color: var(--text-ink);
+      background-color: var(--paper-bg);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .container {
+      width: min(100% - 40px, 1200px);
+      margin-inline: auto;
+    }
+
+    /* HEADER */
+    header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border-color);
+      height: 76px;
+      display: flex;
+      align-items: center;
+    }
+
+    .header-content {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+    }
+
+    .brand-logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 26px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--navy-dark);
+      cursor: pointer;
+    }
+
+    .brand-logo .dot {
+      color: var(--primary-red);
+    }
+
+    nav.nav-links {
+      display: flex;
+      align-items: center;
+      gap: 28px;
+    }
+
+    nav.nav-links a {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 17px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--navy-dark);
+      transition: color 0.2s ease;
+      cursor: pointer;
+      padding-block: 4px;
+      border-bottom: 2px solid transparent;
+    }
+
+    nav.nav-links a:hover,
+    nav.nav-links a.active {
+      color: var(--primary-red);
+      border-bottom-color: var(--primary-red);
+    }
+
+    .btn-quote {
+      background: var(--primary-red);
+      color: #fff;
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 16px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      padding: 10px 22px;
+      border-radius: 2px;
+      border: none;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: background 0.2s;
+    }
+
+    .btn-quote:hover {
+      background: var(--primary-red-hover);
+    }
+
+    /* MAIN CONTENT VIEWPORT */
+    main {
+      padding-top: 76px;
+    }
+
+    /* HERO */
+    .hero-banner {
+      background: linear-gradient(135deg, #091222 0%, #101c34 60%, #192b49 100%);
+      color: #fff;
+      padding: 90px 0 100px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero-tag {
+      font-family: var(--font-display);
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #fac7c9;
+      margin-bottom: 12px;
+    }
+
+    .hero-title {
+      font-family: var(--font-display);
+      font-size: clamp(38px, 6vw, 68px);
+      font-weight: 800;
+      text-transform: uppercase;
+      line-height: 0.96;
+      max-width: 800px;
+      margin-bottom: 24px;
+    }
+
+    .hero-title span {
+      color: var(--primary-red);
+    }
+
+    .hero-sub {
+      font-size: 18px;
+      color: #cbd5e1;
+      max-width: 650px;
+      margin-bottom: 36px;
+      line-height: 1.6;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+
+    .btn-primary {
+      background: var(--primary-red);
+      color: #fff;
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 18px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 14px 32px;
+      border-radius: 2px;
+      border: none;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-primary:hover {
+      background: var(--primary-red-hover);
+      transform: translateY(-1px);
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: #fff;
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 18px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 14px 32px;
+      border-radius: 2px;
+      border: 2px solid #fff;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-outline:hover {
+      background: #fff;
+      color: var(--navy-dark);
+    }
+
+    /* STATS STRIP */
+    .stats-bar {
+      background: #bd1721;
+      color: #fff;
+      padding: 24px 0;
+    }
+
+    .stats-inner {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .stat-badge {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+    }
+
+    .stat-badge .num {
+      font-family: var(--font-display);
+      font-size: 54px;
+      font-weight: 800;
+      line-height: 1;
+    }
+
+    .stat-badge .lbl {
+      font-family: var(--font-display);
+      font-size: 18px;
+      font-weight: 700;
+      text-transform: uppercase;
+      line-height: 1.1;
+    }
+
+    /* CONTACT / START A PROJECT SECTION */
+    .section-contact {
+      padding: 80px 0;
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: 1.4fr 0.8fr;
+      gap: 40px;
+      align-items: start;
+    }
+
+    @media (max-width: 900px) {
+      .contact-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* BLACK CARD FOR DIRECT EMAIL INQUIRY */
+    .black-card {
+      background: var(--black-card);
+      color: #fff;
+      border-top: 6px solid var(--primary-red);
+      border-left: 1px solid rgba(255, 255, 255, 0.08);
+      border-right: 1px solid rgba(255, 255, 255, 0.08);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      padding: 40px;
+      border-radius: 2px;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+    }
+
+    .card-label {
+      font-family: var(--font-display);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--primary-red);
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    .card-title {
+      font-family: var(--font-display);
+      font-size: 34px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: -0.01em;
+      margin-bottom: 6px;
+    }
+
+    .card-desc {
+      font-size: 14px;
+      color: #94a3b8;
+      margin-bottom: 24px;
+    }
+
+    .card-desc strong {
+      color: #fac7c9;
+      font-family: monospace;
+    }
+
+    /* DIRECT ACTION BAR */
+    .quick-actions-box {
+      background: var(--black-card-inner);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 18px 20px;
+      border-radius: 2px;
+      margin-bottom: 28px;
+    }
+
+    .quick-actions-title {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: #fac7c9;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .action-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .btn-action-red {
+      background: var(--primary-red);
+      color: #fff;
+      font-family: var(--font-body);
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 10px 18px;
+      border-radius: 2px;
+      border: none;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .btn-action-red:hover {
+      background: var(--primary-red-hover);
+    }
+
+    .btn-action-dark {
+      background: rgba(255, 255, 255, 0.1);
+      color: #fff;
+      font-family: var(--font-body);
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 10px 18px;
+      border-radius: 2px;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-action-dark:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+
+    /* FORM FIELDS */
+    .form-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    @media (max-width: 600px) {
+      .form-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .form-group.col-span-2 {
+      grid-column: span 2;
+    }
+
+    @media (max-width: 600px) {
+      .form-group.col-span-2 {
+        grid-column: span 1;
+      }
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #94a3b8;
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+      width: 100%;
+      background: var(--black-card-inner);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: #fff;
+      padding: 12px 14px;
+      font-size: 14px;
+      font-family: var(--font-body);
+      border-radius: 2px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .form-group select option {
+      background: var(--navy-dark);
+      color: #fff;
+    }
+
+    .form-group input:focus,
+    .form-group select:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary-red);
+    }
+
+    .send-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      margin-top: 24px;
+    }
+
+    /* ASIDE CONTACT DETAILS */
+    .aside-box {
+      background: var(--navy-light);
+      color: #fff;
+      padding: 34px;
+      border-left: 5px solid var(--primary-red);
+      border-radius: 2px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+      margin-bottom: 24px;
+    }
+
+    .aside-title {
+      font-family: var(--font-display);
+      font-size: 26px;
+      font-weight: 800;
+      text-transform: uppercase;
+      margin-bottom: 18px;
+    }
+
+    .aside-loc-badge {
+      display: inline-block;
+      background: var(--primary-red);
+      color: #fff;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 3px 8px;
+      border-radius: 2px;
+      margin-bottom: 10px;
+    }
+
+    .address-highlight {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 16px;
+      border-radius: 2px;
+      font-size: 14px;
+      line-height: 1.5;
+      margin-bottom: 16px;
+    }
+
+    .channels-card {
+      background: #fff;
+      color: var(--text-ink);
+      border: 1px solid var(--border-color);
+      padding: 30px;
+      border-radius: 2px;
+    }
+
+    .channel-item {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      padding-bottom: 14px;
+      margin-bottom: 14px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .channel-item:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
+
+    .channel-lbl {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--text-muted);
+    }
+
+    .channel-val {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--navy-dark);
+    }
+
+    .channel-val a {
+      color: var(--navy-dark);
+      text-decoration: underline;
+    }
+
+    .channel-val a:hover {
+      color: var(--primary-red);
+    }
+
+    /* FOOTER */
+    footer {
+      background: var(--navy-light);
+      color: #fff;
+      padding: 50px 0 30px;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 40px;
+      margin-bottom: 30px;
+    }
+
+    @media (max-width: 768px) {
+      .footer-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .footer-bottom {
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      padding-top: 20px;
+      font-size: 12px;
+      color: #94a3b8;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    /* TOAST FEEDBACK */
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: #0f291e;
+      color: #4ade80;
+      border: 1px solid #22c55e;
+      padding: 12px 20px;
+      border-radius: 4px;
+      font-size: 13px;
+      font-weight: 600;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+      display: none;
+      z-index: 999;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="container header-content">
+      <div class="brand-logo" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+        idisplay<span class="dot">.</span>
+      </div>
+      <nav class="nav-links">
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#contact" class="active">Contact</a>
+      </nav>
+      <button class="btn-quote" onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})">
+        Start a Project ↗
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO SECTION -->
+    <section class="hero-banner" id="home">
+      <div class="container">
+        <p class="hero-tag">EXHIBITS · EVENTS · DISPLAYS · BEYOND EXPECTATION</p>
+        <h1 class="hero-title">
+          Unleash the Power of <span>Imagination</span>
+        </h1>
+        <p class="hero-sub">
+          Specialized, turnkey exhibition pavilion fabrication, promotional roadshows, permanent retail shop-fittings, and large-format graphics engineered in Taytay, Rizal, Philippines.
+        </p>
+        <div class="hero-actions">
+          <button class="btn-primary" onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'})">
+            Direct Email Inquiry ↗
+          </button>
+          <button class="btn-outline" onclick="copyEmailToClipboard()">
+            Copy Email (idisplay_ph@yahoo.com)
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- STATS STRIP -->
+    <section class="stats-bar">
+      <div class="container stats-inner">
+        <div class="stat-badge">
+          <span class="num">15+</span>
+          <span class="lbl">Years Industry<br>Mastery</span>
+        </div>
+        <div class="stat-badge">
+          <span class="num">HQ</span>
+          <span class="lbl">Taytay, Rizal<br>Workshop & Office</span>
+        </div>
+        <div class="stat-badge">
+          <span class="num">100%</span>
+          <span class="lbl">Turnkey<br>Excellence</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT / START A PROJECT -->
+    <section class="section-contact" id="contact">
+      <div class="container">
+        <div class="contact-grid">
+          
+          <!-- LEFT: BLACK DIRECT EMAIL CARD (NO CRUD) -->
+          <div class="black-card">
+            <span class="card-label">DIRECT EMAIL DISPATCH</span>
+            <h2 class="card-title">Start a Project</h2>
+            <p class="card-desc">
+              No CRUD or account registration needed. Directly transmits your brief to <strong>idisplay_ph@yahoo.com</strong>.
+            </p>
+
+            <!-- 1-CLICK ACTIONS -->
+            <div class="quick-actions-box">
+              <div class="quick-actions-title">
+                ⚡ Quick 1-Click Direct Actions
+              </div>
+              <div class="action-buttons">
+                <button class="btn-action-red" onclick="launchDirectMail()">
+                  ✉ Email Directly Now
+                </button>
+                <button class="btn-action-dark" onclick="openInGmailWeb()">
+                  ↗ Open in Gmail Web
+                </button>
+                <button class="btn-action-dark" onclick="copyEmailToClipboard()">
+                  📋 Copy Email
+                </button>
+              </div>
+            </div>
+
+            <!-- CUSTOMIZE PROJECT DETAILS -->
+            <form id="projectForm" onsubmit="event.preventDefault(); launchDirectMail();">
+              <div class="form-grid">
+                <div class="form-group">
+                  <label for="clientName">Your Name / Contact Person</label>
+                  <input type="text" id="clientName" placeholder="e.g. Maria Santos">
+                </div>
+
+                <div class="form-group">
+                  <label for="clientEmail">Your Email (for Reply)</label>
+                  <input type="email" id="clientEmail" placeholder="e.g. maria@company.com.ph">
+                </div>
+
+                <div class="form-group">
+                  <label for="clientCompany">Company / Organization</label>
+                  <input type="text" id="clientCompany" placeholder="e.g. San Miguel Corp. / Evolve Tech">
+                </div>
+
+                <div class="form-group">
+                  <label for="clientPhone">Phone / Mobile (optional)</label>
+                  <input type="tel" id="clientPhone" placeholder="e.g. 0917 123 4567">
+                </div>
+
+                <div class="form-group">
+                  <label for="projectType">Service Offering</label>
+                  <select id="projectType">
+                    <option value="Custom Exhibits">Custom Exhibits (Double-Deck / Modular)</option>
+                    <option value="Promotional Events and Roadshows">Promotional Events and Roadshows</option>
+                    <option value="Permanent Displays and Shop-fittings">Permanent Displays and Shop-fittings</option>
+                    <option value="Commercial Interior Design and Architecture">Commercial Interior Design & Architecture</option>
+                    <option value="Point-of-Sale Setups">Point-of-Sale (POS) Setups</option>
+                    <option value="Larger-than-Life Graphic Displays">Larger-than-Life Graphic Displays</option>
+                  </select>
+                </div>
+
+                <div class="form-group">
+                  <label for="venueLocation">Target Venue / Location</label>
+                  <input type="text" id="venueLocation" placeholder="e.g. SMX Convention, WTC Pasay, Trinoma">
+                </div>
+
+                <div class="form-group col-span-2">
+                  <label for="projectBudget">Budget Guidance / Target Date (optional)</label>
+                  <input type="text" id="projectBudget" placeholder="e.g. PHP 500,000 - PHP 1,000,000 (Target: Q4 2026)">
+                </div>
+
+                <div class="form-group col-span-2">
+                  <label for="projectMessage">Project Brief & Specifications</label>
+                  <textarea id="projectMessage" rows="4" placeholder="Describe booth dimensions (e.g. 6x6m), requirements (lightboxes, hanging banner, private meeting room)..."></textarea>
+                </div>
+              </div>
+
+              <div class="send-actions">
+                <button type="submit" class="btn-primary">
+                  Send via Email App ↗
+                </button>
+                <button type="button" class="btn-action-dark" onclick="openInGmailWeb()">
+                  Send via Gmail Web ↗
+                </button>
+                <button type="button" class="btn-action-dark" onclick="copyFormattedDraft()">
+                  Copy Draft Text
+                </button>
+              </div>
+            </form>
+          </div>
+
+          <!-- RIGHT: LOCATION & CONTACT DETAILS -->
+          <aside>
+            <!-- TAYTAY RIZAL LOCATION BOX -->
+            <div class="aside-box">
+              <span class="aside-loc-badge">TAYTAY, RIZAL</span>
+              <h3 class="aside-title">Taytay, Rizal, Philippines</h3>
+              
+              <div class="address-highlight">
+                <strong>Head Office & Workshop:</strong><br>
+                Velasquez St., Taytay, Rizal, Philippines 1920<br>
+                <em>(Zone II)</em>
+              </div>
+
+              <p style="font-size: 13px; color: #cbd5e1; line-height: 1.5;">
+                In-house steel welding, precision timber carpentry, CNC router cutting, and paint finishing based in Taytay, Rizal. We deploy fabrication crews to SMX Convention Center, World Trade Center, PICC, Clark, and nationwide.
+              </p>
+            </div>
+
+            <!-- CHANNELS -->
+            <div class="channels-card">
+              <div class="channel-item">
+                <span class="channel-lbl">Company Email</span>
+                <span class="channel-val"><a href="mailto:idisplay_ph@yahoo.com">idisplay_ph@yahoo.com</a></span>
+              </div>
+
+              <div class="channel-item">
+                <span class="channel-lbl">Mobile / Hotline</span>
+                <span class="channel-val"><a href="tel:09178663121">0917 866 3121</a> (+63 917 866 3121)</span>
+              </div>
+
+              <div class="channel-item">
+                <span class="channel-lbl">Facebook Page</span>
+                <span class="channel-val"><a href="https://www.facebook.com/idisplayinc" target="_blank">iDisplay Inc. ↗</a></span>
+              </div>
+
+              <div class="channel-item">
+                <span class="channel-lbl">Operating Hours</span>
+                <span class="channel-val" style="font-weight: 500; font-size: 14px;">Monday – Saturday: 8:00 AM – 6:00 PM PST</span>
+              </div>
+            </div>
+          </aside>
+
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="brand-logo" style="color: #fff; margin-bottom: 12px;">
+            idisplay<span class="dot">.</span>
+          </div>
+          <p style="font-size: 14px; color: #cbd5e1; max-width: 450px;">
+            iDisplay Inc. delivers world-class spaces across the Philippines. Custom exhibits, promotional roadshows, and permanent retail shop-fittings.
+          </p>
+        </div>
+        <div>
+          <p style="font-size: 12px; font-weight: 700; letter-spacing: 0.15em; text-transform: uppercase; color: #fac7c9; margin-bottom: 10px;">
+            HEAD OFFICE & WORKSHOP
+          </p>
+          <p style="font-size: 14px; color: #cbd5e1;">
+            Velasquez St., Taytay, Rizal, Philippines 1920
+          </p>
+          <p style="font-size: 14px; color: #cbd5e1; margin-top: 6px;">
+            Email: <a href="mailto:idisplay_ph@yahoo.com" style="text-decoration: underline;">idisplay_ph@yahoo.com</a> | Tel: 0917 866 3121
+          </p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div>© 2026 iDisplay Inc. All rights reserved. Taytay, Rizal, Philippines.</div>
+        <div>EXHIBITS · EVENTS · DISPLAYS · BEYOND EXPECTATION</div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- TOAST NOTIFICATION -->
+  <div id="toast" class="toast">Action completed!</div>
+
+  <!-- ============================================================
+       JAVASCRIPT LOGIC
+       ============================================================ -->
+  <script>
+    const COMPANY_EMAIL = "idisplay_ph@yahoo.com";
+
+    function showToast(message) {
+      const toast = document.getElementById('toast');
+      toast.innerText = message;
+      toast.style.display = 'block';
+      setTimeout(() => {
+        toast.style.display = 'none';
+      }, 3000);
+    }
+
+    function buildEmailPayload() {
+      const name = document.getElementById('clientName').value.trim() || 'New Client';
+      const email = document.getElementById('clientEmail').value.trim() || 'Not specified';
+      const company = document.getElementById('clientCompany').value.trim();
+      const phone = document.getElementById('clientPhone').value.trim();
+      const service = document.getElementById('projectType').value;
+      const venue = document.getElementById('venueLocation').value.trim();
+      const budget = document.getElementById('projectBudget').value.trim();
+      const message = document.getElementById('projectMessage').value.trim();
+
+      const subject = `[Project Inquiry] ${service} — ${name}${company ? ` (${company})` : ''}`;
+
+      const lines = [
+        `Dear iDisplay Inc. Team,`,
+        ``,
+        `I would like to inquire about a project for my company/brand:`,
+        ``,
+        `PROJECT DETAILS:`,
+        `• Service Required: ${service}`,
+        venue ? `• Target Venue / Location: ${venue}` : null,
+        budget ? `• Estimated Budget / Timeline: ${budget}` : null,
+        ``,
+        `PROJECT BRIEF & REQUIREMENTS:`,
+        message || 'Please contact me to discuss our upcoming exhibition/display project requirements.',
+        ``,
+        `CONTACT INFORMATION:`,
+        `• Contact Person: ${name}`,
+        `• Email: ${email}`,
+        phone ? `• Phone/Mobile: ${phone}` : null,
+        company ? `• Company: ${company}` : null,
+        ``,
+        `Best regards,`,
+        name
+      ].filter(Boolean);
+
+      return {
+        subject: subject,
+        body: lines.join('\n')
+      };
+    }
+
+    function launchDirectMail() {
+      const payload = buildEmailPayload();
+      const mailtoUrl = `mailto:${COMPANY_EMAIL}?subject=${encodeURIComponent(payload.subject)}&body=${encodeURIComponent(payload.body)}`;
+      window.location.href = mailtoUrl;
+      showToast('Opening default email app addressed to ' + COMPANY_EMAIL);
+    }
+
+    function openInGmailWeb() {
+      const payload = buildEmailPayload();
+      const gmailUrl = `https://mail.google.com/mail/?view=cm&fs=1&to=${encodeURIComponent(COMPANY_EMAIL)}&su=${encodeURIComponent(payload.subject)}&body=${encodeURIComponent(payload.body)}`;
+      window.open(gmailUrl, '_blank', 'noopener,noreferrer');
+      showToast('Opening Gmail Web composer...');
+    }
+
+    async function copyEmailToClipboard() {
+      try {
+        await navigator.clipboard.writeText(COMPANY_EMAIL);
+        showToast('✓ Copied ' + COMPANY_EMAIL + ' to clipboard!');
+      } catch (err) {
+        prompt('Copy email:', COMPANY_EMAIL);
+      }
+    }
+
+    async function copyFormattedDraft() {
+      const payload = buildEmailPayload();
+      const textToCopy = `To: ${COMPANY_EMAIL}\nSubject: ${payload.subject}\n\n${payload.body}`;
+      try {
+        await navigator.clipboard.writeText(textToCopy);
+        showToast('✓ Project inquiry draft copied to clipboard!');
+      } catch (err) {
+        prompt('Copy draft text:', textToCopy);
+      }
+    }
+  </script>
+</body>
+</html>
